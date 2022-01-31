@@ -2,7 +2,7 @@
 # Sobre
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Requisitos-de-Software/2020.2-CarteiraDigitalTransito/main/docs/assets/logos/ponto_facil.png" />
+  <img src="https://github.com/Requisitos-de-Software/2021.2-Grupo02/blob/master/docs/assets/logos/ponto_facil.png" />
 </div>
 
 <br />
@@ -17,6 +17,6 @@
 
 |Foto | Nome | GitHub | E-mail |
 |:--:|:--:|:--:|:--:|
-| <img width=100 style="border-radius:50%" src="https://raw.githubusercontent.com/Requisitos-de-Software/2020.2-CarteiraDigitalTransito/ed3bf5ae18a2054e39ca03675c349476b813f0fa/docs/assets/integrantes/eduardo.jpg"/> | Eduardo Maia | [@eduardomr][eduardo-github] | emaiarezende@gmail.com
+| <img width=100 style="border-radius:50%" src="https://github.com/Requisitos-de-Software/2021.2-Grupo02/blob/master/docs/assets/integrantes/eduardo.jpg"/> | Eduardo Maia | [@eduardomr][eduardo-github] | emaiarezende@gmail.com
 
 [eduardo-github]:https://github.com/eduardomr
