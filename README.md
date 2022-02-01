@@ -18,5 +18,10 @@
 |Foto | Nome | GitHub | E-mail |
 |:--:|:--:|:--:|:--:|
 | <img width=100 style="border-radius:50%" src="https://github.com/Requisitos-de-Software/2021.2-Grupo02/blob/master/docs/assets/integrantes/eduardo.jpg"/> | Eduardo Maia | [@eduardomr][eduardo-github] | emaiarezende@gmail.com
+| <img width=100 style="border-radius:50%" src="https://github.com/Requisitos-de-Software/2021.2-Grupo02/blob/master/docs/assets/integrantes/klyssmann.jpg"/> | Klyssmann Oliveira | [@kyssmannoliveira][klyssmann-github] | klyssmannoliveira@gmail.com
+| <img width=100 style="border-radius:50%" src="https://github.com/Requisitos-de-Software/2021.2-Grupo02/blob/master/docs/assets/integrantes/joseluis.jpg"/> | José Luís Ramos Teixeira | [@joseluis-rt][jose-github] |  joseluisramost3@gmail.com
+
 
 [eduardo-github]:https://github.com/eduardomr
+[klyssmann-github]:https://github.com/kyssmannoliveira
+[jose-github]:https://github.com/joseluis-rt
