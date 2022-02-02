@@ -1,0 +1,63 @@
+site_name: Ponto Fácil
+theme:
+  name: material
+  palette:
+    primary: blue
+  logo: assets/logos/ponto_facil.png
+  language: 'pt'
+  features:
+    - navigation.instant
+
+nav:
+  - Início: index.md
+  - Planejamento:
+      - Metodologia: planejamento/metodologia.md
+      - Cronograma: planejamento/cronograma.md
+      - Ferramentas: planejamento/ferramentas.md
+  - Pré-rastreabilidade:
+      - RichPictures: pre_rastreabilidade/rich_pictures.md
+  - Elicitação:
+      - Personas: elicitacao/personas.md
+      - Técnicas:
+          - Brainstorming: elicitacao/tecnicas/brainstorm.md
+          - Observação: elicitacao/tecnicas/observacao.md
+          - Introspecção: elicitacao/tecnicas/introspeccao.md
+          - Questionário: elicitacao/tecnicas/questionario.md
+      - Priorização:
+          - MoSCoW: elicitacao/priorizacao/moscow.md
+      - Resultado: elicitacao/resultado.md
+  - Modelagem:
+      - Especificação Suplementar: modelagem/especificacao_suplementar.md
+      - Cenários: modelagem/cenarios.md
+      - Léxicos: modelagem/lexicos.md
+      - Casos de Uso: modelagem/casos_de_uso.md
+      - NFR Framework: modelagem/nfr_framework.md
+      - Backlog:
+          - Backlog do produto: modelagem/backlog/backlog.md
+          - EP01 - Conta: modelagem/backlog/ep01_conta.md
+          - EP02 - Perfil: modelagem/backlog/ep02_perfil.md
+          - EP03 - Conteúdo: modelagem/backlog/ep03_conteudo.md
+  - Análise:
+      - Verificação:
+          - Verificação: analise/verificacao/verificacao.md
+          - NFR Framework: analise/verificacao/nfr_framework.md
+          - Rich Picture: analise/verificacao/rich_picture.md
+          - Backlog: analise/verificacao/backlog.md
+          - Casos de Uso: analise/verificacao/casos_de_uso.md
+          - Cenários: analise/verificacao/cenarios.md
+          - Léxicos: analise/verificacao/lexicos.md
+      - Validação:
+          - Prototipação: analise/validacao/prototipacao.md
+  - Pós-rastreabilidade:
+      - Backward-from: pos_rastreabilidade/backward_from.md
+      - Foward-from: pos_rastreabilidade/forward_from.md
+  - Apresentações:
+      - Apresentação 1: apresentacoes/apresentacao1.md
+      - Apresentação 2: apresentacoes/apresentacao2.md
+      - Apresentação 3: apresentacoes/apresentacao3.md
+      - Apresentação 4: apresentacoes/apresentacao4.md
+      - Apresentação 5: apresentacoes/apresentacao5.md
+      - Apresentação 6: apresentacoes/apresentacao6.md
+      - Apresentação Final: apresentacoes/apresentacao_final.md
+  - Atas:
+      - 29/01/2022: atas/reuniao-29/01/2022.md
