@@ -20,8 +20,14 @@
 | <img width=100 style="border-radius:50%" src="https://github.com/Requisitos-de-Software/2021.2-Grupo02/blob/master/docs/assets/integrantes/eduardo.jpg"/> | Eduardo Maia | [@eduardomr][eduardo-github] | emaiarezende@gmail.com
 | <img width=100 style="border-radius:50%" src="https://github.com/Requisitos-de-Software/2021.2-Grupo02/blob/master/docs/assets/integrantes/klyssmann.jpg"/> | Klyssmann Oliveira | [@kyssmannoliveira][klyssmann-github] | klyssmannoliveira@gmail.com
 | <img width=100 style="border-radius:50%" src="https://github.com/Requisitos-de-Software/2021.2-Grupo02/blob/master/docs/assets/integrantes/joseluis.jpg"/> | José Luís Ramos Teixeira | [@joseluis-rt][jose-github] |  joseluisramost3@gmail.com
+| <img width=100 style="border-radius:50%" src="https://github.com/Requisitos-de-Software/2021.2-Grupo02/blob/master/docs/assets/integrantes/augusto.jpg"/> | Augusto D. Camargo | [@augustocrmg][augusto-github] | email_augusto
+| <img width=100 style="border-radius:50%" src="https://github.com/Requisitos-de-Software/2021.2-Grupo02/blob/master/docs/assets/integrantes/lorenzo.jpg"/> | Lorenzo de Lima Alves dos Santos | [@lorenzo7377][lorenzo-github] | lorenzodavinci@hotmail.com
+| <img width=100 style="border-radius:50%" src="https://github.com/Requisitos-de-Software/2021.2-Grupo02/blob/master/docs/assets/integrantes/kayro.png"/> | Kayro César |[@kayrocesar][kayro-github] | email_kayro
 
 
 [eduardo-github]:https://github.com/eduardomr
 [klyssmann-github]:https://github.com/kyssmannoliveira
 [jose-github]:https://github.com/joseluis-rt
+[augusto-github]:https://github.com/augustocrmg
+[lorenzo-github]:https://github.com/lorenzo7377
+[kayro-github]:https://github.com/kayrocesar
