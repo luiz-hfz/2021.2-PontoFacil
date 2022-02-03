@@ -71,11 +71,19 @@ O XP é uma metodologia focada em agilidade de equipes e qualidade de projetos, 
 * Rodagem das pessoas da equipe em cada um dos papéis ágeis.
 
 
-
-
 ## Cronograma de encontros
 
 |  Dia | Horário  | Integrantes  |  Objetivo |
 |:-:|:-:|:-:|:-:|
 |  Terças e Quintas |  Após a aula |  todos os integrantes | Reunião interna de cada time  |
 |  Quintas |  20h |  Product Owners e Scrum Masters | Alinhamento de informações e definição da Sprint subsequente |
+
+## Política de Commits
+
+Os commits são essenciais para acompanharmos as alterações e adições ao projeto.
+
+Deve ser usado o modo imperativo (ações e ordens assertivas) para mencionar o que foi feito e deve ser feito da seguinte forma:
+
+```git
+git commit -m "#IdIssue - Mensagem"
+```
