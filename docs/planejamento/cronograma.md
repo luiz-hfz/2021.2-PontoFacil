@@ -5,7 +5,7 @@
 |    Data    | Versão |                Modificação                |       Autor        |
 | :-------- | :---- | :--------------------------------------- | :---------------- |
 | 03/02/2022 |  0.1   | Criação do documento e elaboração do cronograma |  [@klyssmannoliveira](https://github.com/klyssmannoliveira); [@eduardomr](https://github.com/eduardo-github) e [@augustocrmg](https://github.com/augusto-github)     |
-| 03/02/2022 | 0.2 | Mapa de calor | [@joseluis-rt](ttps://github.com/jose-github); [@lorenzo7377](lorenzo-github) e [@kayrocesar](kayro-github) |
+| 03/02/2022 | 0.2 | Mapa de calor | [@joseluis-rt](https://github.com/jose-github); [@lorenzo7377](lorenzo-github) e [@kayrocesar](kayro-github) |
 
 
 ## 1. Introdução
@@ -36,7 +36,7 @@
 
 <center>
 
-![Mapa de Calor](../assets/heatmap.jpeg)
+![Mapa de Calor](https://github.com/Requisitos-de-Software/2021.2-PontoFacil/blob/master/docs/assets/imagens/Mapa_de_Calor.jpg?raw=true)
 
 <figcaption>Imagem 1: Mapa de calor do grupo.</figcaption>
 
