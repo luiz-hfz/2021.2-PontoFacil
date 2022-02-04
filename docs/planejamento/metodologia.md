@@ -9,9 +9,9 @@
 
 ## Introdução
 
-Quando se fala em metodologia de desenvolvimento de um software logo se pensa em desenvolvimento ágil. Essa ampla adoção de metodologias ágeis culminou no movimento ágil em 2001. Assim, visando um desenvolvimento mais colaborativo com equipes multidisciplinadas, este produto foi desenvolvido com base nos ritos do SCRUM.
+<p style='text-align: justify;'>Quando se fala em metodologia de desenvolvimento de um software logo se pensa em desenvolvimento ágil. Essa ampla adoção de metodologias ágeis culminou no movimento ágil em 2001. Assim, visando um desenvolvimento mais colaborativo com equipes multidisciplinadas, este produto foi desenvolvido com base nos ritos do SCRUM.</p>
 
-O SCRUM é uma estrutura simples e iterativa para o gerenciamento de projetos, seguindo os principais princípios: flexibilidade dos resultados, times pequenos, revisões constantes (denominadas de sprints) e coloboração mútua. Por se tratar de uma disciplina de requisitos, teremos apenas os papéis de Scrum Master e Product Owner.
+<p style='text-align: justify;'>O SCRUM é uma estrutura simples e iterativa para o gerenciamento de projetos, seguindo os principais princípios: flexibilidade dos resultados, times pequenos, revisões constantes (denominadas de sprints) e coloboração mútua. Por se tratar de uma disciplina de requisitos, teremos apenas os papéis de Scrum Master e Product Owner.</p>
 
 ## Papéis
 
@@ -31,7 +31,7 @@ O SCRUM é uma estrutura simples e iterativa para o gerenciamento de projetos, s
 
 
 ## Atividades da Metodologia
-O presente documento tem como objetivo elicitar as ferramentas utilizadas para poder cumprir os ritos do SCRUM.
+<p style='text-align: justify;'>O presente documento tem como objetivo elicitar as ferramentas utilizadas para poder cumprir os ritos do SCRUM.</p>
 
 ### Sprint
 * É o período determinado pela equipe para a definição e realização das tarefas;
@@ -56,7 +56,7 @@ O presente documento tem como objetivo elicitar as ferramentas utilizadas para p
 
 ## Atividades do Extreme Programming (XP)
 
-O XP é uma metodologia focada em agilidade de equipes e qualidade de projetos, apoiada em valores como simplicidade, comunicação e feedback.
+<p style='text-align: justify;'>O XP é uma metodologia focada em agilidade de equipes e qualidade de projetos, apoiada em valores como simplicidade, comunicação e feedback.</p>
 
 ### Pair Programming
 
@@ -80,10 +80,39 @@ O XP é uma metodologia focada em agilidade de equipes e qualidade de projetos, 
 
 ## Política de Commits
 
-Os commits são essenciais para acompanharmos as alterações e adições ao projeto.
+<p style='text-align: justify;'>Os commits são essenciais para acompanharmos as alterações e adições ao projeto.</p>
 
-Deve ser usado o modo imperativo (ações e ordens assertivas) para mencionar o que foi feito e deve ser feito da seguinte forma:
+<p style='text-align: justify;'>Deve ser usado o modo imperativo (ações e ordens assertivas) para mencionar o que foi feito e deve ser feito da seguinte forma:</p>
 
-```git
+```
 git commit -m "#IdIssue - Mensagem"
+```
+
+## Política de Branchs
+
+<p style='text-align: justify;'> <em>Branchs</em> são ferramentas do Github que servem para permitir a atualização do repositório do trabalho por diferentes pessoas ao mesmo tempo.</p>
+
+<p style='text-align: justify;'>Para poder atualizar os arquivos do repositório, primeiro é necessário clonar a o repositório do grupo usando a chave SSH:</p>
+
+```
+git clone "SSH Key"
+```
+
+<p style='text-align: justify;'>Caso não existam branchs auxiliares para alteração de arquivos, deverá ser criada uma para tal com o seguinte comando:</p>
+
+```
+git checkout -b "Nome da branch entre aspas duplas"
+```
+
+<p style='text-align: justify;'>Após todas mudanças serem feitas, as alterações devem ser adicionadas ao status:</p>
+
+```
+git status
+git add .
+```
+
+<p style='text-align: justify;'>Depois de dado o commit, ele deve ser enviado para o Github por meio do comando:</p>
+
+```
+git push
 ```
