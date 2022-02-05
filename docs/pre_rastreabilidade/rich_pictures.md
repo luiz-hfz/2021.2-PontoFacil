@@ -6,7 +6,7 @@
 Um Rich Picture é um desenho que visa representar os principais elementos de um problema para apoiar e proporcionar uma melhor compreensão por parte da equipe de desenvolvimento.
 </p>
 
-## 2. Metologia
+## 2. Metodologia
 <p align="justify">
     Primeiramente,foi realizado um esboço do rich picture para ilustrar uma idéia geral do funcionamento do aplicativo e posteriormente foram realizadas mais duas versões  utilizando a ferramenta <a href="https://www.figma.com/">Figma</a>.
 </p>
