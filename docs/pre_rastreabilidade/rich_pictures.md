@@ -13,20 +13,20 @@ Um Rich Picture é um desenho que visa representar os principais elementos de um
 
 ## Esboço
 
-<img width=100 style="border-radius:50%" src="./../assets/imagens/RichPictureEsboço.jpg"  width="500" />
+![Rich Picture Esboço](../assets/imagens/RichPictureEsboço.jpg)
 
 
 
 ## Versão 1
 
-<img width=100 style="border-radius:50%" src="./../assets/imagens/RichPictureV1.png"  width="500" />
+![Rich Picture V1](../assets/imagens/RichPictureV1.png)
 
 
 
 
 ## Versão 2
 
-<img width=100 style="border-radius:50%" src="./../assets/imagens/RichPictureV2.png"  width="500" />
+![Rich Picture V1](../assets/imagens/RichPictureV2.png)
 
 
 
