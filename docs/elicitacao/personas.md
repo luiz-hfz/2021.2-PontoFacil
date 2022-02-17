@@ -6,6 +6,7 @@
 | :-: | :-: | :-- | :-- |
 | 17/02/2022 |  0.1   | Criação do documento e elaboração do texto |  [@klyssmannoliveira](https://github.com/klyssmannoliveira)   |
 | 17/02/2022 |  0.2   | Persona 1 e 2 |  [@klyssmannoliveira](https://github.com/klyssmannoliveira)   |
+| 17/02/2022 |  0.3   | Persona 3 e antipersona |  [Kayro César](https://github.com/kayrocesar)   |
 
 ---
 
@@ -41,6 +42,30 @@
 | Objetivos e tarefas | Realiza o desenvolvimento de software na mesma empresa que a Joana. É responsável pela automatização do serviço de homologação dos veículos da empresa.|
 | Ambiente | Marcos trabalha no formato remoto desde o início da pandemia devido ao COVID-19. Ele prefere trabalhar em casa pois gosta de desenvolver seu papel no horário que está mais disposto. Gosta da companhia dos seus cachorros e frequentemente vai ao parque. Marcos não precisa bater registrar o ponto presencialmente, mas, utiliza o ponto fácil para organizar o seu horário de trabalho em casa durante a semana.| 
 | Citação | “A madrugada é o melhor horário para desenvolver” |
+
+### 2.3. Persona 3
+
+| Persona | Bartender |
+| :-: | :-- |
+| Foto |<img src="../assets/imagens/persona3.jpg" alt="Diogo Aguiar dos Santos" width="250"/> |
+| Nome fictício |Diogo Aguiar dos Santos |
+| Cargo |Bartender no estabelecimento Tropical Bar	|
+| Demográfico |	<li> 28 anos </li> <li>Solteiro  </li> <li>Sem filhos</li>|
+| Objetivos e tarefas |Serve e prepara bebidas para o público em geral. Organiza os materiais que serão utilizados, como utensílios de corte e mistura, frutas, bebidas alcoólicas, refrigerantes e sucos, gelo, copos e outros itens indispensáveis para o cardápio que será oferecido.  |
+| Ambiente |Diogo trabalha em um conhecido bar de Brasília. Ele gosta muito de conversar com  pessoas conhecidas e  desconhecidas e tem muito senso de humor. Costuma trabalhar bastante e  geralmente  trabalha no período noturno. Costuma utilizar o aplicativo ponto fácil para ter uma noção do quanto está trabalhando, não tem muita paciencia para ficar configurando o aplicativo.| 
+| Citação | "Gostaria que meu salário sobrevivesse mais que dois dias na minha conta." |
+
+### 2.4. Antipersona
+
+| Persona | Eletrecista aposentado|
+| :-: | :-- |
+| Foto |<img src="../assets/imagens/persona4.jpg" alt="José Francisco Da Silva" width="250"/> |
+| Nome fictício |José Francisco Da Silva |
+| Cargo | Eletrecista aposentado	|
+| Demográfico |	<li>78 anos </li> <li>Casado  </li> <li>5 filhos </li> |
+| Objetivos e tarefas | Realiza compras diárias em feiras e mercados e passa o dia com um dos seus netos |
+| Ambiente |José é um idoso aposentado, antigamente trabalhava em um ministério do governo federal, prestando serviços como eletrecista. Atualmente, passa a maior parte do tempo ajudando sua esposa nos afazeres domésticos, também fica com um dos seus netos durante parte do dia. Gosta muito de sair para o mercado e para a feira, nessas situações sempre aproveita para tomar um açai bem gelado.  | 
+| Citação | "A velhice é prêmio para uns e castigo para outros"|
 
 
 ## Referência
