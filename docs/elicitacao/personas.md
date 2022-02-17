@@ -4,10 +4,11 @@
 
 |    Data    | Versão |   Modificação    |       Autor        |
 | :-: | :-: | :-- | :-- |
-| 17/02/2022 |  0.1   | Criação do documento e elaboração do texto |  [@klyssmannoliveira](https://github.com/klyssmannoliveira)   |
-| 17/02/2022 |  0.2   | Persona 1 e 2 |  [Klyssmann Oliveira](https://github.com/klyssmannoliveira)   |
+| 17/02/2022 |  0.1   | Criação do documento e elaboração do texto |  [Klyssmann de Oliveira](https://github.com/klyssmannoliveira)   |
+| 17/02/2022 |  0.2   | Persona 1 e 2 |  [Klyssmann de Oliveira](https://github.com/klyssmannoliveira)   |
 | 17/02/2022 |  0.3   | Persona 3 e antipersona |  [Kayro César](https://github.com/kayrocesar)   |
 | 17/02/2022 |  0.4   | Revisão e inserção de imagens |  [Eduardo Maia](https://github.com/eduardomr)   |
+| 17/02/2022 |  0.5   | Ajustes e referências das imagens |  [Klyssmann Oliveira](https://github.com/klyssmannoliveira)   |
 
 ---
 
@@ -23,8 +24,9 @@
 
 | Persona | Engenheira de homologação de veículos |
 | :-: | :-- |
-| Foto |<img src="../../assets/imagens/persona1.png" alt="Joana dos Santos Evangelista" width="250"/> |
+| Foto |Figura 1 - Foto de Joana dos Santos Evangelista (GENERATOR, 2022).<br> <img src="../../assets/imagens/persona1.png" alt="Joana dos Santos Evangelista" width="250"/>|
 | Nome fictício | Joana dos Santos Evangelista |
+| Status | Persona primária |
 | Cargo |	Analista de homologação de ensaios da FORD |
 | Demográfico |	<li> 34 anos</li> <li> Casada </li> <li>2 filhas</li> |
 | Objetivos e tarefas | Focada em realizar a avaliação dos relatórios técnicos de ensaio para homologação dos veículos da empresa para a circulação. Faz relatórios da situação dos veículos para o gerente.|
@@ -36,11 +38,12 @@
 
 | Persona | Desenvolvedor de software - remoto |
 | :-: | :-- |
-| Foto |<img src="../../assets/imagens/persona2.png" alt="Marcos José Farias" width="250"/> |
+| Foto |Figura 2 - Foto de Marcos José Farias (GENERATOR, 2022).<br> <img src="../../assets/imagens/persona2.png" alt="Marcos José Farias" width="250"/> |
 | Nome fictício | Marcos José Farias |
+| Status | Persona primária |
 | Cargo |	Desenvolvedor de Software da FORD |
 | Demográfico |	<li> 30 anos</li> <li> Solteiro </li> <li> Pai de pet</li> |
-| Objetivos e tarefas | Realiza o desenvolvimento de software na mesma empresa que a Joana. É responsável pela automatização do serviço de homologação dos veículos da empresa.|
+| Objetivos e tarefas | Realiza o desenvolvimento de software na mesma empresa que a Joana. É responsável pela automatização do serviço de homologação dos veículos da empresa. |
 | Ambiente | Marcos trabalha no formato remoto desde o início da pandemia devido ao COVID-19. Ele prefere trabalhar em casa pois gosta de desenvolver seu papel no horário que está mais disposto. Gosta da companhia dos seus cachorros e frequentemente vai ao parque. Marcos não precisa bater registrar o ponto presencialmente, mas, utiliza o ponto fácil para organizar o seu horário de trabalho em casa durante a semana.| 
 | Citação | “A madrugada é o melhor horário para desenvolver” |
 
@@ -48,8 +51,9 @@
 
 | Persona | Bartender |
 | :-: | :-- |
-| Foto |<img src="../../assets/imagens/persona3.jpg" alt="Diogo Aguiar dos Santos" width="250"/> |
-| Nome fictício |Diogo Aguiar dos Santos |
+| Foto | Figura 3 - Foto de Diogo Aguiar dos Santos (GENERATOR, 2022).<br> <img src="../../assets/imagens/persona3.jpg" alt="Diogo Aguiar dos Santos" width="250"/> |
+| Nome fictício | Diogo Aguiar dos Santos |
+| Status | Persona secundária |
 | Cargo |Bartender no estabelecimento Tropical Bar	|
 | Demográfico |	<li> 28 anos </li> <li>Solteiro  </li> <li>Sem filhos</li>|
 | Objetivos e tarefas |Serve e prepara bebidas para o público em geral. Organiza os materiais que serão utilizados, como utensílios de corte e mistura, frutas, bebidas alcoólicas, refrigerantes e sucos, gelo, copos e outros itens indispensáveis para o cardápio que será oferecido.  |
@@ -60,9 +64,10 @@
 
 | Persona | Eletrecista aposentado|
 | :-: | :-- |
-| Foto |<img src="../../assets/imagens/persona4.jpg" alt="José Francisco Da Silva" width="250"/> |
-| Nome fictício |José Francisco Da Silva |
-| Cargo | Eletrecista aposentado	|
+| Foto |Figura 4 - Foto de José Francisco Da Silva (GENERATOR, 2022) <img src="../../assets/imagens/persona4.jpg" alt="José Francisco Da Silva" width="250"/> |
+| Nome fictício | José Francisco Da Silva |
+| Status | antipersona |
+| Cargo | Eletrecista aposentado |
 | Demográfico |	<li>78 anos </li> <li>Casado  </li> <li>5 filhos </li> |
 | Objetivos e tarefas | Realiza compras diárias em feiras e mercados e passa o dia com um dos seus netos |
 | Ambiente |José é um idoso aposentado, antigamente trabalhava em um ministério do governo federal, prestando serviços como eletrecista. Atualmente, passa a maior parte do tempo ajudando sua esposa nos afazeres domésticos, também fica com um dos seus netos durante parte do dia. Gosta muito de sair para o mercado e para a feira, nessas situações sempre aproveita para tomar um açai bem gelado.  | 
@@ -73,3 +78,5 @@
 COOPER, A.; REIMANN, R.; CRONIN, D. About Face 3: The Essentials of Interaction Design. Indianápolis: Wiley Publishing, Inc., 2007.
 
 BARBOSA, S.; SILVA, B. Interação Humano-Computador. Rio de Janeiro: Elsevier Editora Ltda, 2010.
+
+GENERATOR, FACE, 2022. Disponível em: <<https://generated.photos/face-generator/>>. Acessado: 17/02/2022.
