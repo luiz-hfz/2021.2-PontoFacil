@@ -68,7 +68,7 @@
 | Citação | "A velhice é prêmio para uns e castigo para outros"|
 
 
-## Referência
+## Referências
 COOPER, A.; REIMANN, R.; CRONIN, D. About Face 3: The Essentials of Interaction Design. Indianápolis: Wiley Publishing, Inc., 2007.
 
 BARBOSA, S.; SILVA, B. Interação Humano-Computador. Rio de Janeiro: Elsevier Editora Ltda, 2010.
