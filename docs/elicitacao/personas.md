@@ -5,8 +5,9 @@
 |    Data    | Versão |   Modificação    |       Autor        |
 | :-: | :-: | :-- | :-- |
 | 17/02/2022 |  0.1   | Criação do documento e elaboração do texto |  [@klyssmannoliveira](https://github.com/klyssmannoliveira)   |
-| 17/02/2022 |  0.2   | Persona 1 e 2 |  [@klyssmannoliveira](https://github.com/klyssmannoliveira)   |
+| 17/02/2022 |  0.2   | Persona 1 e 2 |  [Klyssmann Oliveira](https://github.com/klyssmannoliveira)   |
 | 17/02/2022 |  0.3   | Persona 3 e antipersona |  [Kayro César](https://github.com/kayrocesar)   |
+| 17/02/2022 |  0.4   | Revisão e inserção de imagens |  [Eduardo Maia](https://github.com/eduardomr)   |
 
 ---
 
@@ -22,7 +23,7 @@
 
 | Persona | Engenheira de homologação de veículos |
 | :-: | :-- |
-| Foto |<img src="../assets/imagens/persona1.png" alt="Joana dos Santos Evangelista" width="250"/> |
+| Foto |<img src="../../assets/imagens/persona1.png" alt="Joana dos Santos Evangelista" width="250"/> |
 | Nome fictício | Joana dos Santos Evangelista |
 | Cargo |	Analista de homologação de ensaios da FORD |
 | Demográfico |	<li> 34 anos</li> <li> Casada </li> <li>2 filhas</li> |
@@ -35,7 +36,7 @@
 
 | Persona | Desenvolvedor de software - remoto |
 | :-: | :-- |
-| Foto |<img src="../assets/imagens/persona2.png" alt="Marcos José Farias" width="250"/> |
+| Foto |<img src="../../assets/imagens/persona2.png" alt="Marcos José Farias" width="250"/> |
 | Nome fictício | Marcos José Farias |
 | Cargo |	Desenvolvedor de Software da FORD |
 | Demográfico |	<li> 30 anos</li> <li> Solteiro </li> <li> Pai de pet</li> |
@@ -47,7 +48,7 @@
 
 | Persona | Bartender |
 | :-: | :-- |
-| Foto |<img src="../assets/imagens/persona3.jpg" alt="Diogo Aguiar dos Santos" width="250"/> |
+| Foto |<img src="../../assets/imagens/persona3.jpg" alt="Diogo Aguiar dos Santos" width="250"/> |
 | Nome fictício |Diogo Aguiar dos Santos |
 | Cargo |Bartender no estabelecimento Tropical Bar	|
 | Demográfico |	<li> 28 anos </li> <li>Solteiro  </li> <li>Sem filhos</li>|
@@ -59,7 +60,7 @@
 
 | Persona | Eletrecista aposentado|
 | :-: | :-- |
-| Foto |<img src="../assets/imagens/persona4.jpg" alt="José Francisco Da Silva" width="250"/> |
+| Foto |<img src="../../assets/imagens/persona4.jpg" alt="José Francisco Da Silva" width="250"/> |
 | Nome fictício |José Francisco Da Silva |
 | Cargo | Eletrecista aposentado	|
 | Demográfico |	<li>78 anos </li> <li>Casado  </li> <li>5 filhos </li> |
