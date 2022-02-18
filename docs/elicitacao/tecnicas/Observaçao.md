@@ -13,7 +13,7 @@
 ## 1. Introdução
 
 <p align="justify">&emsp;
-    A observação é uma das diversas diversas técnicas de elicitação de requisitos. Como o nome sugere, essa técnica descreve que um avaliador deve observar os usuários utilizando o sistema para realizar tarefas em seu ambiente de implantação. No entanto, observar um usuário enquanto ele realiza determinada tarefa pode gerar uma carga de estresse indesejável e ele pode até alterar seu comportamento por causa disso [1].
+    A observação é uma das diversas diversas técnicas de elicitação de requisitos. Como o nome sugere, essa técnica descreve que um avaliador deve observar os usuários utilizando o sistema para realizar tarefas em seu ambiente de implantação. No entanto, observar um usuário enquanto ele realiza determinada tarefa pode gerar uma carga de estresse indesejável e ele pode até alterar seu comportamento por causa disso (TÉCNICAS, 2021).
 </p>
 
 <p align="justify">&emsp;
@@ -58,4 +58,4 @@
 - RNF: Requisito não funcional
 
 ## 5. Referências
-> [1] - https://sites.google.com/site/tecnicaselicitacao/
+> TÉCNICAS de Elicitação de Requisitos. [S. l.], 8 dez. 2021. Disponível em: https://sites.google.com/site/tecnicaselicitacao/. Acesso em: 18 fev. 2022.
