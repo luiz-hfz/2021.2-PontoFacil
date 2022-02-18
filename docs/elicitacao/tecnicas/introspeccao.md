@@ -7,6 +7,7 @@
 | 18/02/2022 |  0.1   | Criação do documento e elaboração do texto |  [Klyssmann de Oliveira](https://github.com/klyssmannoliveira)   |
 | 18/02/2022 |  0.2   | Tabela de requisitos e legenda |  [Klyssmann de Oliveira](https://github.com/klyssmannoliveira)   |
 | 18/02/2022 |  0.3   | Ajuste nas metodologias e participantes |  [Klyssmann de Oliveira](https://github.com/klyssmannoliveira)   |
+| 18/02/2022 |  0.4   | Revisão do documento e ajustes ortográficos |  [José Luís](https://github.com/joseluis-rt)   |
 
 ---
 
@@ -23,13 +24,15 @@
 </p>
 
 
-### 2.1 Participantes do Brainstorming
+#### 2.1 Participantes da Introspecção
+|Integrantes |
+| -- |
+|[Eduardo Maia](https://github.com/eduardomr)|
+|[Klyssmann Oliveira](https://github.com/kyssmannoliveira)|
+|[José Luís Ramos Teixeira](https://github.com/joseluis-rt)|
+|[Lorenzo de Lima Alves dos Santos](https://github.com/lorenzo7377)|
+|[Kayro César](https://github.com/kayrocesar)|
 
-- [Eduardo Maia](https://github.com/eduardomr)
-- [Klyssmann Oliveira](https://github.com/kyssmannoliveira)
-- [José Luís Ramos Teixeira](https://github.com/joseluis-rt)
-- [Lorenzo de Lima Alves dos Santos](https://github.com/lorenzo7377)
-- [Kayro César](https://github.com/kayrocesar)
 
 ## 3. Resultados
 
