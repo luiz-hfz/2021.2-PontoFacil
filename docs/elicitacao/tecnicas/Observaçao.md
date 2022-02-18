@@ -6,6 +6,7 @@
 |    Data    | Versão |                Modificação                |       Autor        |
 | :-------- | :---- | :--------------------------------------- | :---------------- |
 | 18/02/2022 |  0.1   | Criação do documento |  [Lorenzo Santos](https://github.com/lorenzo7377)   |
+| 18/02/2022 |  0.2   | Revisão do documento |  [Kayro César](https://github.com/kayrocesar)   |
 
 
 
