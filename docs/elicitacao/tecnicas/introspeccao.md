@@ -6,7 +6,7 @@
 | :-: | :-: | :-- | :-- |
 | 18/02/2022 |  0.1   | Criação do documento e elaboração do texto |  [Klyssmann de Oliveira](https://github.com/klyssmannoliveira)   |
 | 18/02/2022 |  0.2   | Tabela de requisitos e legenda |  [Klyssmann de Oliveira](https://github.com/klyssmannoliveira)   |
-
+| 18/02/2022 |  0.3   | Ajuste nas metodologias e participantes |  [Klyssmann de Oliveira](https://github.com/klyssmannoliveira)   |
 
 ---
 
@@ -16,17 +16,22 @@
 
 <p style="text-align: justify">Este método é bastante útil para o início da elicitação dos requisitos, entretanto, há alguns problemas como a falta do "uso ingênuo" do usuário (GOGUEN; LINDE, 1993). O engenheiro de requisitos pode imaginar requisitos muito específico para o funcionamento do sistema e por isso este método de elicitação deve ser complementado por outros métodos e ser utilizado como ponto de partida.</p>
 
-## 2. Elicitação dos requisitos
+## 2. Metodologia
 
-### 2.1. Participantes
+<p style="text-align: justify">
+    O grupo realizou uma reunião no aplicativo Discord para a execução da introspecção e também utilizou ferramenta jamboard, que oferece uma quadro interativo para exposição de ideias. Assim, pode-se realizar a instrospecção com a participação de todos os integrantes. 
+</p>
 
-- Eduardo Maia
-- José Luís Ramos Teixeira
-- Kayro César
-- Klyssmann de Oliveira
-- 	Lorenzo de Lima Alves dos Santos
 
-### 2.2. Resultados
+### 2.1 Participantes do Brainstorming
+
+- [Eduardo Maia](https://github.com/eduardomr)
+- [Klyssmann Oliveira](https://github.com/kyssmannoliveira)
+- [José Luís Ramos Teixeira](https://github.com/joseluis-rt)
+- [Lorenzo de Lima Alves dos Santos](https://github.com/lorenzo7377)
+- [Kayro César](https://github.com/kayrocesar)
+
+## 3. Resultados
 
 | Sigla | Tipo | Requisito|
 | :-: | :-: | :-- |
@@ -45,6 +50,6 @@
 - IP: Introspecção
 
 
-## 3. Referências
+## 4. Referências
 
 <p style="text-align: justify"> GOGUEN; J. A. and LINDE; C., "Techniques for requirements elicitation," [1993] Proceedings of the IEEE International Symposium on Requirements Engineering, 1993, p. 152-164, doi: 10.1109/ISRE 1993.324822.</p>
