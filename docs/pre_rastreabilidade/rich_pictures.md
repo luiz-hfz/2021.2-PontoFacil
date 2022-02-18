@@ -7,7 +7,7 @@
 | 29/01/2022 |  0.1   |    Esboço do RichPicture    | [Klyssmann Oliveira](https://github.com/klyssmannoliveira)|
 | 02/01/2022 |  1.0   |  RichPicture realizado no [Figma]("https://www.figma.com/")  |   [Kayro César](https://github.com/kayrocesar)|
 | 03/01/2022 |  2.0   |  RichPicture aprimorado no [Figma]("https://www.figma.com/")  |   [Kayro César](https://github.com/kayrocesar)|
-| 18/02/2022 |  2.1  | Correção de estruração do documento , inserção de legenda e fonte nas imagens  |  [Kayro César](https://github.com/kayrocesar)|
+| 18/02/2022 |  2.1  | Correção de estruturação do documento , inserção de legenda e fonte nas imagens  |  [Kayro César](https://github.com/kayrocesar)|
 
 ## 1. Introdução
 <p align="justify">
