@@ -42,7 +42,7 @@
 
 ## 3.Questões
 ### Questão 1
-<p align = "center"><img src="../../../assets/imagens/questionario_q1.jpg">Figura 01 - Descrição da Imagem</p><br>
+<p align = "center"><img src="../../../assets/imagens/questionario_q1.jpg"><br>Figura 01 - Descrição da Imagem</p><br>
 
 ### Questão 2
 ![Questão 2](https://github.com/Requisitos-de-Software/2021.2-PontoFacil/blob/master/docs/assets/imagens/questionario_q2.jpg)
