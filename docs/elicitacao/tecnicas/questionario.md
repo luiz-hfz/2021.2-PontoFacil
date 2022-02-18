@@ -7,6 +7,7 @@
 | :-------- | :---- | :--------------------------------------- | :---------------- |
 | 18/02/2022 |  0.1   | Criação do documento e elaboração do texto |  [José Luís](https://github.com/joseluis-rt)   |
 | 18/02/2022 |  0.2   | Adição de imagens e participantes |  [José Luís](https://github.com/joseluis-rt)   |
+| 18/02/2022 |  0.3   | Revisão |  [Eduardo Maia](https://github.com/eduardomr)   |
 
 
 
@@ -21,7 +22,7 @@
 
 <p align="justify">&emsp;&emsp;Para ter um número satisfatório de dados foi importante evitar questões longas e/ou complexas.
 
-&emsp;&emsp;Através da divulgação e do compartilhamento do questionário, recebemos um total de (54) respostas, alcançando o objetivo que tínhamos com essa técnica e tendo uma boa variedade de respostas para estudo.
+&emsp;&emsp;Através da divulgação e do compartilhamento do questionário, recebemos um total de (81) respostas, alcançando o objetivo que tínhamos com essa técnica e tendo uma boa variedade de respostas para estudo.
   
 | Dados Recolhidos em |
 |-----------------|
@@ -42,31 +43,31 @@
 
 ## 3.Questões
 ### Questão 1
-<p align = "center"><img src="../../../assets/imagens/questionario_q1.jpg"><br>Figura 01 - Descrição da Imagem</p><br>
+<p align = "center"><img src="../../../assets/imagens/questionario_q1.jpg"></p><br>
 
 ### Questão 2
-![Questão 2](https://github.com/Requisitos-de-Software/2021.2-PontoFacil/blob/master/docs/assets/imagens/questionario_q2.jpg)
+<p align = "center"><img src="../../../assets/imagens/questionario_q2.jpg"></p><br>
 
 ### Questão 3 
-![Questão 3](https://github.com/Requisitos-de-Software/2021.2-PontoFacil/blob/master/docs/assets/imagens/questionario_q3.jpg)
+<p align = "center"><img src="../../../assets/imagens/questionario_q3.jpg"></p><br>
 
 ### Questão 4
-![Questão 4](https://github.com/Requisitos-de-Software/2021.2-PontoFacil/blob/master/docs/assets/imagens/questionario_q4.jpg)
+<p align = "center"><img src="../../../assets/imagens/questionario_q4.jpg"></p><br>
 
 ### Questão 5
-![Questão 5](https://github.com/Requisitos-de-Software/2021.2-PontoFacil/blob/master/docs/assets/imagens/questionario_q5.jpg)
+<p align = "center"><img src="../../../assets/imagens/questionario_q5.jpg"></p><br>
 
 ### Questão 6
-![Questão 6](https://github.com/Requisitos-de-Software/2021.2-PontoFacil/blob/master/docs/assets/imagens/questionario_q6.jpg)
+<p align = "center"><img src="../../../assets/imagens/questionario_q6.jpg"></p><br>
 
 ### Questão 7
-![Questão 7](https://github.com/Requisitos-de-Software/2021.2-PontoFacil/blob/master/docs/assets/imagens/questionario_q7.jpg)
+<p align = "center"><img src="../../../assets/imagens/questionario_q7.jpg"></p><br>
 
 ### Questão 8
-![Questão 8](https://github.com/Requisitos-de-Software/2021.2-PontoFacil/blob/master/docs/assets/imagens/questionario_q8.jpg)
+<p align = "center"><img src="../../../assets/imagens/questionario_q8.jpg"></p><br>
 
 ### Questão 9
-![Questão 9](https://github.com/Requisitos-de-Software/2021.2-PontoFacil/blob/master/docs/assets/imagens/questionario_q9.jpg)
+<p align = "center"><img src="../../../assets/imagens/questionario_q9.jpg"></p><br>
 
 ## 4.Resultados
 
