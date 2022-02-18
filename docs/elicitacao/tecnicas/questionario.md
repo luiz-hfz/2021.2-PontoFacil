@@ -6,6 +6,7 @@
 |    Data    | Versão |                Modificação                |       Autor        |
 | :-------- | :---- | :--------------------------------------- | :---------------- |
 | 18/02/2022 |  0.1   | Criação do documento e elaboração do texto |  [José Luís](https://github.com/joseluis-rt)   |
+| 18/02/2022 |  0.2   | Adição de imagens e participantes |  [José Luís](https://github.com/joseluis-rt)   |
 
 
 
@@ -30,33 +31,42 @@
 
 <br>
   
+#### 2.1 Participantes do Questionário
+|Integrantes |
+| -- |
+|[Eduardo Maia](https://github.com/eduardomr)|
+|[Klyssmann Oliveira](https://github.com/kyssmannoliveira)|
+|[José Luís Ramos Teixeira](https://github.com/joseluis-rt)|
+|[Lorenzo de Lima Alves dos Santos](https://github.com/lorenzo7377)|
+|[Kayro César](https://github.com/kayrocesar)|
+
 ## 3.Questões
 ### Questão 1
-![Questão 1]()
+![Questão 1](https://github.com/Requisitos-de-Software/2021.2-PontoFacil/blob/master/docs/assets/imagens/questionario_q1.jpg)
 
 ### Questão 2
-![Questão 2]()
+![Questão 2](https://github.com/Requisitos-de-Software/2021.2-PontoFacil/blob/master/docs/assets/imagens/questionario_q2.jpg)
 
 ### Questão 3 
-![Questão 3]()
+![Questão 3](https://github.com/Requisitos-de-Software/2021.2-PontoFacil/blob/master/docs/assets/imagens/questionario_q3.jpg)
 
 ### Questão 4
-![Questão 4]()
+![Questão 4](https://github.com/Requisitos-de-Software/2021.2-PontoFacil/blob/master/docs/assets/imagens/questionario_q4.jpg)
 
 ### Questão 5
-![Questão 5]()
+![Questão 5](https://github.com/Requisitos-de-Software/2021.2-PontoFacil/blob/master/docs/assets/imagens/questionario_q5.jpg)
 
 ### Questão 6
-![Questão 6]()
+![Questão 6](https://github.com/Requisitos-de-Software/2021.2-PontoFacil/blob/master/docs/assets/imagens/questionario_q6.jpg)
 
 ### Questão 7
-![Questão 7]()
+![Questão 7](https://github.com/Requisitos-de-Software/2021.2-PontoFacil/blob/master/docs/assets/imagens/questionario_q7.jpg)
 
 ### Questão 8
-![Questão 8]()
+![Questão 8](https://github.com/Requisitos-de-Software/2021.2-PontoFacil/blob/master/docs/assets/imagens/questionario_q8.jpg)
 
 ### Questão 9
-![Questão 9]()
+![Questão 9](https://github.com/Requisitos-de-Software/2021.2-PontoFacil/blob/master/docs/assets/imagens/questionario_q9.jpg)
 
 ## 4.Resultados
 
