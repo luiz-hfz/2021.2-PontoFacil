@@ -5,19 +5,20 @@
 
 |Data | Versão | Modificação | Autor(es)|
 | -- | -- | -- | -- |
-| 18.02.2022 | 0.1 | Adição do documento de Brainstorming | [Kayro César](https://github.com/kayrocesar)
+| 18.02.2022 | 0.1 | Adição do documento de Brainstorming | [Kayro César](https://github.com/kayrocesar) |
+| 18/02/2022 |  0.2   | Revisão do documento e ajustes ortográficos |  [Klyssmann Oliveira](https://github.com/klyssmannoliveira)   |
 
 
 
 
 ### 1. Introdução
 <div align="justify">
-    Brainstorming é que uma técnica que possibilita a obtenção de informações acerca dos tipos de conteúdo e determinadas características que os usuários desejam em um produto. A técnica funciona para qualquer produto ou serviço e tem como resultado uma lista de possíveis necessidades dos usuários. A sessão começa com uma pergunta que resume o objetivo de entender aquilo que os usuários querem e necessitam no produto.(BARBOSA et al.,2021)
+    Brainstorming é que uma técnica que possibilita a obtenção de informações acerca dos tipos de conteúdo e determinadas características que os usuários desejam em um produto. A técnica funciona para qualquer produto ou serviço e tem como resultado uma lista de possíveis necessidades dos usuários. A sessão começa com uma pergunta que resume o objetivo de entender aquilo que os usuários querem e necessitam no produto (BARBOSA et al.,2021).
 </div>
 
 ### 2. Metodologia
 <div align="justify">
-    O grupo realizou uma reunião no aplicativo Discord para a execução do brainstorming e também  utilizou ferramenta jamboard, que oferece uma quadro interativo para exposição de idéias. Dessa forma, cada participante expôs as suas idéias no quadro interativo a partir de cada um dos questionamentos levantados. 
+    O grupo realizou uma reunião no aplicativo Discord para a execução do brainstorming e também utilizou ferramenta jamboard, que oferece uma quadro interativo para exposição de ideias. Dessa forma, cada participante expôs as suas ideias no quadro interativo a partir de cada um dos questionamentos levantados. 
 </div>
 
 #### 2.1 Participantes do Brainstorming
