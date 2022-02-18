@@ -43,6 +43,13 @@
 | 13 | O sistema deve poder notificar o usuário sobre as horas de começar, intervalos, retornos e turnos excessivos; | Requisito Funcional |
 | 14 | O usuário deve poder adicionar uma foto o registro do ponto; | Requisito Funcional |
 | 14 | O usuário deve poder registrar um ponto através de Tags NFC; | Requisito Funcional |
+| 15 | O usuário deve poder configurar o sistema para realizar um backup em um dia e horário específico; | Requisito Funcional |
+| 16 | O usuário deve poder copiar registros anteriores; | Requisito Funcional |
+| 17 | O sistema deve ser capaz de armazenar a tolerância da jornada de trabalho; | Requisito Funcional|
+| 18 | O usuário deve poder configurar o sistema para realizar um backup em um dia e horário específico; | Requisito Funcional|
+| 19 | O sistema deve ter opções de linguas (português e inglês); | Requisito não funcional |
+| 20 | O sistema deve ter opções de temas (claro e escuro); | Requisito não funcional |
+| 21 | O sistema deve ser acessívelpor meio de dispositivos móveis; | Requisito não funcional |
 
 
 ## Referências
