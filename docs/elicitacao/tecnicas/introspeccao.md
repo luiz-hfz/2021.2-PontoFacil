@@ -5,6 +5,7 @@
 |    Data    | Versão |   Modificação    |       Autor        |
 | :-: | :-: | :-- | :-- |
 | 18/02/2022 |  0.1   | Criação do documento e elaboração do texto |  [Klyssmann de Oliveira](https://github.com/klyssmannoliveira)   |
+| 18/02/2022 |  0.2   | Tabela de requisitos e legenda |  [Klyssmann de Oliveira](https://github.com/klyssmannoliveira)   |
 
 
 ---
@@ -17,7 +18,31 @@
 
 ## 2. Elicitação dos requisitos
 
-<p style="text-align: justify"></p>
+### 2.1. Participantes
+
+- Eduardo Maia
+- José Luís Ramos Teixeira
+- Kayro César
+- Klyssmann de Oliveira
+- 	Lorenzo de Lima Alves dos Santos
+
+### 2.2. Resultados
+
+| Sigla | Tipo | Requisito|
+| :-: | :-: | :-- |
+| IP1 | RF | O usuário deve ser capaz de registrar falta. | 
+| IP2 | RF | O usuário pode adicionar uma foto do registro do ponto. | 
+| IP3 |  RF | O usuário deve ser capaz de configurar as notificações que o aplicativo informa (aviso de horário de entrada, saída, intervalo). |
+| IP4 | RF | O usuário pode optar por idiomas (português e inglês). | 
+| IP5 | RF | O usuário deve ser capaz de visualizar seus registro no dia, na semana e no mês. | 
+| IP6 | RNF | O aplicativo deve ser capaz de armazenar o backup em contas do Google Drive e Dropbox. | 
+| IP7 |  RF | O usuário deve ser capaz de configurar a qualidade e resolução da foto armazenada. |
+| IP8 | RNF | O aplicativo deve ser capaz de calcular o saldo de horas com base no registro do ponto e tolerância. | 
+
+#### **Legenda:**
+- RF: Requisito funcional
+- RNF: Requisito não funcional
+- IP: Introspecção
 
 
 ## 3. Referências
