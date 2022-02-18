@@ -19,7 +19,7 @@ nav:
   - Elicitação:
       - Personas: elicitacao/personas.md
       - Técnicas:
-          - Brainstorming: elicitacao/tecnicas/brainstorm.md
+          - Brainstorming: elicitacao/tecnicas/brainstorming.md
           - Observação: elicitacao/tecnicas/observacao.md
           - Introspecção: elicitacao/tecnicas/introspeccao.md
           - Questionário: elicitacao/tecnicas/questionario.md
