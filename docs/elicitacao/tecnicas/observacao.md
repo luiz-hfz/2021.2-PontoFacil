@@ -50,7 +50,6 @@
 
 - OP: Observação Participativa
 - RF: Requisito Funcional
-- RNF: Requisito não funcional
 
 ## 5. Referências
 > TÉCNICAS de Elicitação de Requisitos. [S. l.], 8 dez. 2021. Disponível em: https://sites.google.com/site/tecnicaselicitacao/. Acesso em: 18 fev. 2022.
