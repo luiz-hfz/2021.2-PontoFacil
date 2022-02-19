@@ -11,18 +11,18 @@
 
 
 
-## 1.Definição
+## 1. Definição
 
 <p align="justify">&emsp;&emsp;
   Os questionários são usados principalmente como uma ferramenta simples, que através de perguntas durante a fase inicial da elicitação, servem para coletar possíveis requisitos de pessoas em lugares diversos, evitando aglomerações e possíveis riscos à saúde, além de não gerar custos para a equipe. Justamente por esses benefícios e facilidades nosso grupo optou por sua utilização.
     
 </p>
 
-## 2.Metodologia
+## 2. Metodologia
 
 <p align="justify">&emsp;&emsp;Para ter um número satisfatório de dados foi importante evitar questões longas e/ou complexas.
 
-&emsp;&emsp;Através da divulgação e do compartilhamento do questionário, recebemos um total de (81) respostas, alcançando o objetivo que tínhamos com essa técnica e tendo uma boa variedade de respostas para estudo.
+&emsp;&emsp;Através da divulgação e do compartilhamento do questionário, recebemos um total de (81) respostas, alcançando o objetivo que tínhamos com essa técnica e tendo uma boa variedade de respostas para estudo.</p>
   
 | Dados Recolhidos em |
 |-----------------|
@@ -69,7 +69,7 @@
 ### Questão 9
 <p align = "center"><img src="../../../assets/imagens/questionario_q9.jpg"></p><br>
 
-## 4.Resultados
+## 4. Resultados
 
 <p align="justify">&emsp;&emsp;
   A técnica de questionários foi importante na construção de personas, priorização das funcionalidades mais utilizadas e identificação do público alvo. A partir dela, também foi possível identificar que a maior parte dos usuários estão satisfeitos com o aplicativo Ponto Fácil.
@@ -80,7 +80,7 @@
   
 
 
-## 5.Requisitos
+## 5. Requisitos
 <p align="justify">&emsp;&emsp;
     Por meio dessa pesquisa foi possível obter informações interessantes. Através dos resultados obtidos com o questionário foi possível identificar a funcionalidade mais utilizada, o nível de satisfação com o aplicativo e a criação de alguns requisitos. Identificar requisitos transmite a ideia de que se está validando a informação a partir de um processo investigativo, agregando bastante valor ao objeto de estudo. 
 </p>
@@ -97,6 +97,6 @@
 | Q02 | O Sistema deve ter layout compreensível e objetivo| RNF |
 | Q03 | O aplicativo deve possuir interface acessível e intuitiva| RNF |
 
-## 6.Referências
+## 6. Referências
 
 > [1] - C. E. Vazquez and G. S. Simões,Engenharia de Requisitos:software orientado ao negócio.    Brasport, 2016
