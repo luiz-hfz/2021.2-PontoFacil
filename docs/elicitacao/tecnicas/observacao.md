@@ -12,6 +12,7 @@
 | 19/02/2022 |  0.5   | Correção dos requisitos |  [Lorenzo Santos](https://github.com/lorenzo7377)   |
 
 
+
 ## 1. Introdução
 
 <p align="justify">&emsp;
@@ -43,6 +44,7 @@
 | OP10 | O usuário deve poder consultar o saldo de horas total (do mês) | RF |
 | OP11 | O usuário deve poder gerar um gráfico de horas trabalhadas em um período| RF |
 | OP12 | O usuário deve poder registrar hora extra | RF |
+
 
 ## 4. Legendas
 
