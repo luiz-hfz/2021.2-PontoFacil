@@ -9,6 +9,8 @@
 | 18/02/2022 |  0.2   | Revisão do documento |  [Kayro César](https://github.com/kayrocesar)   |
 | 18/02/2022 |  0.3   | Correção do documento |  [Lorenzo Santos](https://github.com/lorenzo7377)   |
 | 18/02/2022 |  0.4   | Revisão do documento |  [Kayro César](https://github.com/kayrocesar)   |
+| 19/02/2022 |  0.5   | Correção dos requisitos |  [Lorenzo Santos](https://github.com/lorenzo7377)   |
+| 19/02/2022 |  0.5   | Revisão do documento |  [Kayro César](https://github.com/kayrocesar)   |
 
 
 ## 1. Introdução
@@ -30,27 +32,19 @@
 ## 3. Resultados
 |ID| Requisito levantado | Tipo de requisito |
 | -- | -- | -- |
-| OP01 | O usuário deve poder registrar um ponto no aplicativo | RF |
-| OP02 | O usuário deve poder apagar um ponto no aplicativo| RF |
-| OP03 | O usuário deve poder selecionar o dia/semana/mês em que o ponto foi registrado | RF |
-| OP04 | O usuário deve poder ver o saldo de horas no dia específico | RF |
-| OP05 | O usuário deve poder ver alterar o tipo de horas que serão registradas (ponto, falta, folga, feriado, férias e extra) | RF |
-| OP06 | O usuário deve poder editar um ponto já registrado | RF |
-| OP07 | O usuário deve poder gerar um extrato de horas trabalhadas | RF |
-| OP08 | O usuário deve poder gerar um extrato de horas trabalhadas | RF |
-| OP09 | O usuário deve poder selecionar o período de dias a serem contados para o extrato | RF |
-| OP10 | O usuário deve poder selecionar quais informações serão incluídas no extrato (trabalhado no dia, trabalhado no período, saldo do dia, saldo, ...) | RF |
+| OP01 | O usuário poder ser capaz de apagar todos os registros | RF |
+| OP02 | O usuário deve poder ativar a notificação de alarme | RF |
+| OP03 | O usuário deve poder filtrar os parâmetros do gráfico de linhas (primeiro ponto, ponto de saída, saldo total, saldo do dia) | RF |
+| OP04 | O usuário deve poder registrar folga | RF |
+| OP05 | O usuário deve poder consultar o saldo de horas do dia | RF |
+| OP06 | O usuário deve poder fazer um backup dos seus registros automaticamente em nuvem ou local | RF |
+| OP07 | O usuário deve poder escrever uma descrição para cada registro | RF |
+| OP08 | O usuário deve poder registrar férias | RF |
+| OP09 | O usuário deve poder gerar um extrato dos seus registros de acordo com os parâmetros que ele quiser | RF |
+| OP10 | O usuário deve poder consultar o saldo de horas total (do mês) | RF |
 | OP11 | O usuário deve poder gerar um gráfico de horas trabalhadas em um período| RF |
-| OP12 | O usuário deve poder ver quais dias não tiveram pontos registrados | RF |
-| OP13 | O sistema deve poder notificar o usuário sobre as horas de começar, intervalos, retornos e turnos excessivos| RF |
-| OP14 | O usuário deve poder adicionar uma foto o registro do ponto| RF |
-| OP15 | O usuário deve poder registrar um ponto através de Tags NFC| RF |
-| OP16 | O usuário deve poder copiar registros anteriores; | RF |
-| OP17 | O sistema deve ser capaz de armazenar a tolerância da jornada de trabalho; | RF |
-| OP18 | O usuário deve poder configurar o sistema para realizar um backup em um dia e horário específico; | RF |
-| OP19 | O sistema deve ter opções de linguas (português e inglês); | RNF|
-| OP20 | O sistema deve ter opções de temas (claro e escuro); | RNF |
-| OP21 | O sistema deve ser acessívelpor meio de dispositivos móveis; | RNF |
+| OP12 | O usuário deve poder registrar hora extra | RF |
+
 
 ## 4. Legendas
 
