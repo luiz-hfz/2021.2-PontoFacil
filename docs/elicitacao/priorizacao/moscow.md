@@ -60,7 +60,7 @@ O nome dessa técnica é dada devido as classificações de prioridade possívei
 | RNF01 |O aplicativo deve ter opções de linguagem (português e inglês) | [Brainstorming](https://requisitos-de-software.github.io/2021.2-PontoFacil/elicitacao/tecnicas/brainstorming/) | Would |
 | RNF02 | O Sistema deverá ser acessível por meio de dispositivos móveis | [Brainstorming](https://requisitos-de-software.github.io/2021.2-PontoFacil/elicitacao/tecnicas/brainstorming/) | Must |
 | RNF03 | O aplicativo deve ter opções de tema (claro e escuro) | [Brainstorming](https://requisitos-de-software.github.io/2021.2-PontoFacil/elicitacao/tecnicas/brainstorming/) | Would |
-| RNF04 | O aplicativo deve garantir a segurança dos dados do usuário | [Questionário](https://requisitos-de-software.github.io/2021.2-PontoFacil/elicitacao/tecnicas/questionario/ | Must |
+| RNF04 | O aplicativo deve garantir a segurança dos dados do usuário | [Questionário](https://requisitos-de-software.github.io/2021.2-PontoFacil/elicitacao/tecnicas/questionario/) | Must |
 | RNF05 |O Sistema deve ter layout compreensível e objetivo | [Questionário](https://requisitos-de-software.github.io/2021.2-PontoFacil/elicitacao/tecnicas/questionario/) | Could |
 | RNF06 | O aplicativo deve possuir interface acessível e intuitiva | [Questionário](https://requisitos-de-software.github.io/2021.2-PontoFacil/elicitacao/tecnicas/questionario/) | Could |
 | RF17 | O usuário deve ser capaz de registrar falta | [Introspecção](https://requisitos-de-software.github.io/2021.2-PontoFacil/elicitacao/tecnicas/introspeccao/) | Should |
