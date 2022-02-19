@@ -36,7 +36,7 @@ O nome dessa técnica é dada devido as classificações de prioridade possívei
 | Could | 9 |
 | Would | 9 |
 
-<p align = "center"><img src="../../../assets/imagens/moscow.png" width="700">Figura 01 - Gráfico de pizza representando as proporções de requisitos classificados como Must, Should, Could e Would</p><br>
+<p align = "center"><img src="../../../assets/imagens/moscow.png" width="700"><br>Figura 01 - Gráfico de pizza representando as proporções de requisitos classificados como Must, Should, Could e Would</p><br>
 
 ### Lista de requisitos e suas prioridades
 |Identificação | Requisito | Técnica | Prioridade |
