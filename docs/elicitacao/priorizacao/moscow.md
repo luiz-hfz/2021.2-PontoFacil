@@ -7,7 +7,7 @@
 | :-------- | :---- | :--------------------------------------- | :---------------- |
 | 14/02/2022 |  0.1   | Criação do documento e elaboração do texto |  [Eduardo Maia](https://github.com/eduardomr)   |
 | 16/02/2022 |  0.2   | Inserção dos requisitos e sua classificação |  [Eduardo Maia](https://github.com/eduardomr)   |
-
+| 19/02/2022 |  0.3   | Revisão do documento |  [Lorenzo Santos](https://github.com/lorenzo7377)   |
 
 ## Metodologia
 
