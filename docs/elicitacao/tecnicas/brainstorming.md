@@ -51,7 +51,7 @@
 #### 3.1 Requisitos elicitados
 <div align="center">
 
-<img src="/assets/imagens/brainstorming.PNG">
+<img src="https://raw.githubusercontent.com/Requisitos-de-Software/2021.2-PontoFacil/master/docs/assets/imagens/brainstorming.PNG">
 </div>
 
 <div align="center">
