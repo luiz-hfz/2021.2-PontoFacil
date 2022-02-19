@@ -10,7 +10,7 @@
 | 18/02/2022 |  0.3   | Correção do documento |  [Lorenzo Santos](https://github.com/lorenzo7377)   |
 | 18/02/2022 |  0.4   | Revisão do documento |  [Kayro César](https://github.com/kayrocesar)   |
 | 19/02/2022 |  0.5   | Correção dos requisitos |  [Lorenzo Santos](https://github.com/lorenzo7377)   |
-
+| 19/02/2022 |  0.5   | Revisão do documento |  [Kayro César](https://github.com/kayrocesar)   |
 
 
 ## 1. Introdução
