@@ -30,9 +30,3 @@
 
 
 
-## 3. Histórico de versão
-
-| Versão | Data       | Descrição                       | Autor                |
-| ------ | ---------- | ------------------------------- | -------------------- |
-| 0.1    | 19/02/2022 | Gravação da apresentação        | Todos os integrantes |
-| 0.2    | 20/02/2022 | Adição do vídeo e slide no documento    | Eduardo Maia |
