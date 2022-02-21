@@ -25,7 +25,6 @@ nav:
           - Questionário: elicitacao/tecnicas/questionario.md
       - Priorização:
           - MoSCoW: elicitacao/priorizacao/moscow.md
-      - Resultado: elicitacao/resultado.md
   - Modelagem:
       - Especificação Suplementar: modelagem/especificacao_suplementar.md
       - Cenários: modelagem/cenarios.md
