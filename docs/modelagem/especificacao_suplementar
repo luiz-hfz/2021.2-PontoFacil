@@ -6,6 +6,7 @@
 | :-------- | :---- | :--------------------------------------- | :---------------- |
 | 04/03/2022 |  0.1   | Criação do documento |  [José Luís](https://github.com/joseluis-rt)   |
 | 04/03/2022 |  0.2   | Elaboração do texto |  [José Luís](https://github.com/joseluis-rt)   |
+| 04/03/2022 |  0.3   | Adição de imagens |  [José Luís](https://github.com/joseluis-rt)   |
 
 
 ## 1. Definição
@@ -86,7 +87,7 @@
 - Requisitos físicos
 
 
-<p align = "center"><img src="../../../assets/imagens/questionario_q9.jpg"></p><br>
+<p align = "center"><img src="../../../assets/imagens/FURPS_resumo.jpg"></p><br>
 <figcaption>Imagem 1: Modelo FURPS+ resumido</figcaption>
 
 ## 4.Resultados
@@ -106,12 +107,12 @@
 
 | Sigla | Requisitos                                      |
 |:------: | :--------------------------------------------------: |
-| F | RNF2, RNF5 |
-| U | RNF3, RNF4 |
+| F | RNF04 |
+| U | RNF01 |
 | R | - |
-| P | - |
-| S | RNF1, RNF6 |
-| + | - |
+| P | RNF07, RNF08 |
+| S | RNF02 |
+| + | RNF03, RNF05 |
 
 <figcaption>Tabela 1: Divisão dos requisitos a partir da metodologia FURPS+</figcaption>
 
@@ -123,7 +124,7 @@
 ## 5. Gráfico dos Requisitos a partir do modelo FURPS+
 
 ### Gráfico
-<p align = "center"><img src="../../../assets/imagens/questionario_q9.jpg"></p><br>
+<p align = "center"><img src="../../../assets/imagens/FURPS_grafico.jpg"></p><br>
 <figcaption>Gráfico 1: Categorização dos requisitos não funcionais pelo modelo FURPS+</figcaption>
 
 
