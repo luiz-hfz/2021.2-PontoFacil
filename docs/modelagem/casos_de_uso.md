@@ -23,140 +23,119 @@
 
 
 ### 3. Resultados
+<div align="justify">
+    Utilizando a metodologia apresentada, foram produzidos os seguintes casos de uso:
+</div>
+
+<br>
+<br>
 
 
-- <b> Registrar o ponto </b> 
+####  Registrar o ponto 
+
+| Fluxo | Passo |Ação |  Ator | RF |
+| :---: | :---: |:---: | :---: | :---: |
+| Normal | <p  style=" color:#2094f3">1</p> |Funcionário seleciona a opção de registrar o ponto  | Funcionário de uma empresa | [RF01, RF02, RF03, RF08](https://requisitos-de-software.github.io/2021.2-PontoFacil/elicitacao/priorizacao/moscow/) |
+| Normal | <p style=" color:#2094f3">2 </p>  |Funcionário informa o horário do registro do ponto  |Funcionário de uma empresa | - |
+| Normal |<p  style=" color:#2094f3">3</p> |Funcionário informa alguns dados adicionais acerca do registro do ponto ( foto e descrição )|Funcionário de uma empresa | [RF18, RF31](https://requisitos-de-software.github.io/2021.2-PontoFacil/elicitacao/priorizacao/moscow/) |
+| Normal | <p  style=" color:#2094f3">4</p> | Aplicativo salva o registro do ponto  |Funcionário de uma empresa|- |
+| Normal | <p  style=" color:#2094f3">5</p> | Aplicativo mostra que o registro do ponto foi realizado com sucesso |Funcionário de uma empresa|- |
+| Extensão| <p  style=" color:#FF0000">2a</p> |Funcionário informa um horário inválido (solicitar horário novamente)  |Funcionário de uma empresa |- | 
+| Extensão|  <p  style=" color:#FF0000">4a</p>|Funcionário desiste de registrar o ponto |Funcionário de uma empresa |- | 
+| Extensão|  <p  style=" color:#FF0000">5a</p>| Aplicativo cancela a operação |Funcionário de uma empresa |- | 
 
 
-    - <span > <b>Ator:</b></span> Funcionário de uma empresa
+<br>
+<br>
 
-    - <span ><b>Fluxo Normal:</b></span> 
+#### Registrar falta
 
-        - <span style=" color:#2094f3">1 -</span> Funcionário seleciona a opção de registrar o ponto
-        - <span style=" color:#2094f3">2 -</span> Funcionário informa o horário do registro do ponto
-        - <span style=" color:#2094f3">3 -</span> Funcionário informa alguns dados acerca do registro do ponto
-        - <span style=" color:#2094f3">4 -</span> Aplicativo salva o registro do ponto
-        - <span style=" color:#2094f3">5 -</span> Aplicativo mostra que o registro do ponto foi realizado com sucesso
+| Fluxo | Passo |Ação |  Ator | RF |
+| :---: | :---: |:---: | :---: | :---: |
+| Normal | <p  style=" color:#2094f3">1</p> |Funcionário seleciona a opção de registrar falta  | Funcionário de uma empresa | [RF17](https://requisitos-de-software.github.io/2021.2-PontoFacil/elicitacao/priorizacao/moscow/) |
+| Normal | <p style=" color:#2094f3">2 </p>  |Funcionário informa a duração da sua falta (dia(s) ou horas) |Funcionário de uma empresa | - |
+| Normal |<p  style=" color:#2094f3">3</p> |Funcionário informa alguns dados acerca do registro da falta|Funcionário de uma empresa | - |
+| Normal | <p  style=" color:#2094f3">4</p> | Aplicativo salva o registro da falta  |Funcionário de uma empresa|- |
+| Normal | <p  style=" color:#2094f3">5</p> | Aplicativo mostra que o registro da falta foi realizado com sucesso |Funcionário de uma empresa|- |
+| Extensão| <p  style=" color:#FF0000">2a</p> |Funcionário informa uma duração  (dias ou horas) inválida (solicitar duração novamente)  |Funcionário de uma empresa |- | 
+| Extensão|  <p  style=" color:#FF0000">4a</p>|Funcionário desiste de registrar o ponto|Funcionário de uma empresa |- | 
+| Extensão|  <p  style=" color:#FF0000">5a</p>| Aplicativo cancela a operação |Funcionário de uma empresa |- | 
 
-    - <span ><b>Extensões:</b></span> 
-        - <span style=" color:#2094f3">2a -</span> Funcionário informa um horário inválido (solicitar horário novamente)
-        - <span style=" color:#2094f3">4a -</span> Funcionário desiste de registrar o ponto
-        - <span style=" color:#2094f3">5a -</span> Aplicativo cancela a operação
-    - <span ><b>RF:</b></span> [RF01, RF02, RF03, RF08, RF18](https://requisitos-de-software.github.io/2021.2-PontoFacil/elicitacao/priorizacao/moscow/)
+ 
+
+  
+ <br>
+ <br>
+
+#### Apagar registros passados
+
+| Fluxo | Passo |Ação |  Ator | RF |
+| :---: | :---: |:---: | :---: | :---: |
+| Normal | <p  style=" color:#2094f3">1</p> |Funcionário seleciona o registro desejado  | Funcionário de uma empresa |- |
+| Normal | <p style=" color:#2094f3">2 </p>  |Funcionário seleciona a opção de apagar |Funcionário de uma empresa | - |
+| Normal |<p  style=" color:#2094f3">3</p> |Aplicativo pergunta se o usuário tem certeza da escolha|Funcionário de uma empresa | - |
+| Normal | <p  style=" color:#2094f3">4</p> | Aplicativo apaga o registro desejado  |Funcionário de uma empresa|[RF05 e RF23](https://requisitos-de-software.github.io/2021.2-PontoFacil/elicitacao/priorizacao/moscow/)|
+| Extensão| <p  style=" color:#FF0000">4a</p> |Funcionário desiste de apagar o registro desejado |Funcionário de uma empresa |- | 
+| Extensão|  <p  style=" color:#FF0000">5a</p>|Aplicativo cancela a operação|Funcionário de uma empresa |- | 
 
  <br>
  <br>
 
- - <b> Registrar falta </b> 
 
+#### Ativar a notificação de alarme 
 
-    - <span > <b>Ator:</b></span> Funcionário de uma empresa
-
-    - <span ><b>Fluxo Normal:</b></span> 
-
-        - <span style=" color:#2094f3">1 -</span> Funcionário seleciona a opção de registrar falta
-        - <span style=" color:#2094f3">2 -</span> Funcionário informa a duração da sua falta (dia(s) ou horas)
-        - <span style=" color:#2094f3">3 -</span> Funcionário informa alguns dados acerca do registro da falta
-        - <span style=" color:#2094f3">4 -</span> Aplicativo salva o registro da falta
-        - <span style=" color:#2094f3">5 -</span> Aplicativo mostra que o registro da falta foi realizado com sucesso
-
-    - <span ><b>Extensões:</b></span> 
-        - <span style=" color:#2094f3">2a -</span> Funcionário informa uma duração  (dias ou horas) inválida (solicitar duração novamente)
-        - <span style=" color:#2094f3">4a -</span> Funcionário desiste de registrar o ponto
-        - <span style=" color:#2094f3">5a -</span> Aplicativo cancela a operação
-    - <span ><b>RF:</b></span> [RF17](https://requisitos-de-software.github.io/2021.2-PontoFacil/elicitacao/priorizacao/moscow/)
+| Fluxo | Passo |Ação |  Ator | RF |
+| :---: | :---: |:---: | :---: | :---: |
+| Normal | <p  style=" color:#2094f3">1</p> |Funcionário seleciona a opção para ativar a notificação de alarme  | Funcionário de uma empresa | - |
+| Normal | <p style=" color:#2094f3">2 </p>  |Funcionário escolhe se deseja ativar alarme para iniciar, retornar ou encerrar o trabalho  |Funcionário de uma empresa | - |
+| Normal |<p  style=" color:#2094f3">3</p> |Funcionário define se deseja antecipar o alarme  |Funcionário de uma empresa | - |
+| Normal | <p  style=" color:#2094f3">4</p> | Aplicativo ativa o alarme de acordo com o especificado pelo usuário  |Funcionário de uma empresa|[RF28](https://requisitos-de-software.github.io/2021.2-PontoFacil/elicitacao/priorizacao/moscow/) |
 
  <br>
  <br>
 
-- <b> Apagar registros de pontos </b>  
+#### Realizar Backup dos registros
 
-    - <span > <b>Ator:</b></span> Funcionário de uma empresa
+| Fluxo | Passo |Ação |  Ator | RF |
+| :---: | :---: |:---: | :---: | :---: |
+| Normal | <p  style=" color:#2094f3">1</p> |Funcionário seleciona a opção para realizar o Backup  | Funcionário de uma empresa |- |
+| Normal | <p style=" color:#2094f3">2 </p>  |Funcionário seleciona o tipo de backup que deseja realizar(local ou nuvem) |Funcionário de uma empresa |  |
+| Normal |<p  style=" color:#2094f3">3</p> |Aplicativo pergunta se o usuário tem certeza da escolha|Funcionário de uma empresa | - |
+| Normal | <p  style=" color:#2094f3">4</p> | Aplicativo apaga o registro desejado  |Funcionário de uma empresa|[RF28](https://requisitos-de-software.github.io/2021.2-PontoFacil/elicitacao/priorizacao/moscow/)|
+| Extensão| <p  style=" color:#FF0000">3a</p> |Funcionário desiste fazer o backup |Funcionário de uma empresa |- | 
+| Extensão|  <p  style=" color:#FF0000">4a</p>|Aplicativo cancela a operação|Funcionário de uma empresa |- | 
 
-    - <span ><b>Fluxo Normal:</b></span> 
-
-        - <span style=" color:#2094f3">1 -</span> Funcionário seleciona o registro desejado
-        - <span style=" color:#2094f3">2 -</span> Funcionário seleciona a opção de apagar
-        - <span style=" color:#2094f3">3 -</span> Aplicativo pergunta se o usuário tem certeza da escolha
-        - <span style=" color:#2094f3">4 -</span> Aplicativo apaga o registro desejado 
-
-    - <span ><b>Extensões:</b></span>   
-        - <span style=" color:#2094f3">3a -</span> Funcionário desiste de apagar o registro desejado
-        - <span style=" color:#2094f3">4a -</span> Aplicativo cancela a operação
-   - <span ><b>RF:</b></span> [RF05 e RF23](https://requisitos-de-software.github.io/2021.2-PontoFacil/elicitacao/priorizacao/moscow/)
-
-<br>
-<br>
-
-- <b> Ativar a notificação de alarme </b> 
-       
-    - <span > <b>Ator:</b></span> Funcionário de uma empresa
-
-    - <span ><b>Fluxo Normal:</b></span> 
-
-        - <span style=" color:#2094f3">1 -</span> Funcionário seleciona a opção para ativar a notificação de alarme
-        - <span style=" color:#2094f3">2 -</span> Funcionário escolhe se deseja ativar alarme para iniciar, retornar ou encerrar o trabalho 
-        - <span style=" color:#2094f3">3 -</span>Funcionário define se deseja antecipar o alarme 
-        - <span style=" color:#2094f3">4 -</span> Aplicativo ativa o alarme de acordo com o especificado pelo usuário
-
-    
-     - <span ><b>RF:</b></span>  [RF28](https://requisitos-de-software.github.io/2021.2-PontoFacil/elicitacao/priorizacao/moscow/)
-
-<br>
-<br>
-
-- <b> Realizar Backup dos registros </b> 
-       
-    - <span > <b>Ator:</b></span> Funcionário de uma empresa
-
-    - <span ><b>Fluxo Normal:</b></span> 
-
-        - <span style=" color:#2094f3">1 -</span> Funcionário seleciona a opção para realizar o Backup
-        - <span style=" color:#2094f3">2 -</span> Funcionário seleciona o tipo de backup que deseja realizar(local ou nuvem)
-        - <span style=" color:#2094f3">3 -</span> Aplicativo pergunta se o usuário tem certeza da escolha
-        - <span style=" color:#2094f3">4 -</span> Aplicativo apaga o registro desejado 
-
-    - <span ><b>Extensões:</b></span>   
-        - <span style=" color:#2094f3">3a -</span> Funcionário desiste fazer o backup
-        - <span style=" color:#2094f3">4a -</span> Aplicativo cancela a operação
-   - <span ><b>RF:</b></span>  [RF28](https://requisitos-de-software.github.io/2021.2-PontoFacil/elicitacao/priorizacao/moscow/)
-
-<br>
-<br>
-
-- <b> Gerar extrato de registros </b>  
-       
-    - <span > <b>Ator:</b></span> Funcionário de uma empresa
-
-    - <span ><b>Fluxo Normal:</b></span> 
-
-        - <span style=" color:#2094f3">1 -</span> Funcionário seleciona a opção para gerar um extrato dos seus registros
-        - <span style=" color:#2094f3">2 -</span> Funcionário seleciona o intervalo de datas que o extrato deve levar em conta 
-        - <span style=" color:#2094f3">2 -</span> Funcionário seleciona quais critérios devem ser incluídos no extrato 
-        - <span style=" color:#2094f3">3 -</span> Aplicativo gera o extrato
-        - <span style=" color:#2094f3">4 -</span> Aplicativo informa que o extrato foi gerado e pergunta se o usuário deseja abri-lo 
-
-    - <span ><b>Extensões:</b></span>  
-        - <span style=" color:#2094f3">2a -</span> Funcionário seleciona o intervalo de datas inválido (solicitar o intervalo novamente)
-        - <span style=" color:#2094f3">3a -</span> Funcionário desiste fazer o backup
-        - <span style=" color:#2094f3">4a -</span> Aplicativo cancela a operação
-    - <span ><b>RF:</b></span> [RF32](https://requisitos-de-software.github.io/2021.2-PontoFacil/elicitacao/priorizacao/moscow/)
-
-<br>
-<br>
-
- - <b> Visualizar inconsistências nos registros de ponto </b> 
-       
-     - <span > <b>Ator:</b></span> Funcionário de uma empresa
-
-     - <span ><b>Fluxo Normal:</b></span> 
-
-         - <span style=" color:#2094f3">1 -</span> Funcionário seleciona a opção para visualizar as inconsistências nos registros de ponto
-         - <span style=" color:#2094f3">2 -</span> Aplicativo exibe a lista de inconsistências (cada item da lista possui uma data) e a quantidade total das mesmas
-
-     - <span ><b>RF:</b></span>   [RF12](https://requisitos-de-software.github.io/2021.2-PontoFacil/elicitacao/priorizacao/moscow/)  
+ <br>
+ <br>
 
 
+
+#### Gerar extrato de registros
+
+| Fluxo | Passo |Ação |  Ator | RF |
+| :---: | :---: |:---: | :---: | :---: |
+| Normal | <p  style=" color:#2094f3">1</p> |Funcionário seleciona a opção para gerar um extrato dos seus registros  | Funcionário de uma empresa |- |
+| Normal | <p style=" color:#2094f3">2 </p>  |Funcionário seleciona o intervalo de datas que o extrato deve levar em conta  |Funcionário de uma empresa |-  |
+| Normal |<p  style=" color:#2094f3">3</p> |Funcionário seleciona quais critérios devem ser incluídos no extrato  |Funcionário de uma empresa |-  |
+| Normal | <p  style=" color:#2094f3">4</p> |Aplicativo gera o extrato  |Funcionário de uma empresa|[RF32](https://requisitos-de-software.github.io/2021.2-PontoFacil/elicitacao/priorizacao/moscow/)|
+| Normal | <p  style=" color:#2094f3">5</p>| Aplicativo informa que o extrato foi gerado e pergunta se o usuário deseja abri-lo  |Funcionário de uma empresa|-|
+| Extensão| <p  style=" color:#FF0000">2a</p> |Funcionário seleciona o intervalo de datas inválido (solicitar o intervalo novamente) |Funcionário de uma empresa|-|
+| Extensão|  <p  style=" color:#FF0000">3a</p>|Funcionário desiste de gerar o extrato|Funcionário de uma empresa |-|
+| Extensão|  <p  style=" color:#FF0000">4a</p>|Aplicativo cancela a operação|Funcionário de uma empresa |-|
+
+ <br>
+ <br>
+
+#### Visualizar inconsistências nos registros de ponto 
+
+| Fluxo | Passo |Ação |  Ator | RF |
+| :---: | :---: |:---: | :---: | :---: |
+| Normal | <p  style=" color:#2094f3">1</p> |Funcionário seleciona a opção para visualizar as inconsistências nos registros de ponto | Funcionário de uma empresa |- |
+| Normal | <p style=" color:#2094f3">2 </p>  |Aplicativo exibe a lista de inconsistências (cada item da lista possui uma data) e a quantidade total das mesmas |Funcionário de uma empresa |[RF12](https://requisitos-de-software.github.io/2021.2-PontoFacil/elicitacao/priorizacao/moscow/)    |
+
+
+ <br>
+ <br>
 
 
 <div align="justify">
@@ -171,9 +150,7 @@
 
 
 
-<div align="center">
 
-</div>
 
 ### 4. Legenda
 
