@@ -1,0 +1,82 @@
+# <center> Especificação Suplementar
+
+## Histórico de versão<br>
+
+|    Data    | Versão |                Modificação                |       Autor        |
+| :-------- | :---- | :--------------------------------------- | :---------------- |
+| 04/03/2022 |  0.1   | Criação do documento |  [José Luís](https://github.com/joseluis-rt)   |
+
+
+## 1. Definição
+&emsp;&emsp;
+
+## 2. Finalidade
+
+## 3. Metodologia
+&emsp;&emsp;
+
+
+### 3.1 Participantes
+|Integrantes |
+| -- |
+|[José Luís Ramos Teixeira](https://github.com/joseluis-rt)|
+
+### 3.2 F - Funcionality (Funcionalidade)
+&emsp;&emsp;
+
+### 3.3 U - Usability (Usabilidade)
+&emsp;&emsp;
+
+### 3.4 R - Reliability (Confiabilidade)
+&emsp;&emsp;
+
+### 3.5 P - Performance (Performance)
+&emsp;&emsp;
+
+### 3.6 S - Suportability (Suportabilidade)
+&emsp;&emsp;
+
+### 3.7 "+"
+&emsp;&emsp;
+
+
+## 4.Resultados
+&emsp;&emsp;Como resultado da identificação dos requisitos levantados na etapa de "elicitação de requisitos":
+**Legenda**:
+
+* F: Funcionalidade
+* U: Usabilidade
+* R: Confiablidade
+* P: Perfomance
+* S: Suportabilidade
+* +: Outros
+* RF: Requisito Funcional
+* RNF: Requisito Não Funcional
+
+<center>
+
+| Sigla | Requisitos                                      |
+|:------: | :--------------------------------------------------: |
+| F | RNF2, RNF5 |
+| U | RNF3, RNF4 |
+| R | - |
+| P | - |
+| S | RNF1, RNF6 |
+| + | - |
+
+<figcaption>Tabela 1: Divisão dos requisitos a partir da metodologia FURPS+</figcaption>
+
+</center>
+
+<br>
+
+
+## 5. Gráfico dos Requisitos a partir do modelo FURPS+
+
+### Gráfico FURPS+
+<p align = "center"><img src="../../../assets/imagens/questionario_q9.jpg"></p><br>
+
+
+## 6. Referências
+
+> [1] - SERRANO, Maurício; SERRANO, Milene; Requisitos - Aula 13;
