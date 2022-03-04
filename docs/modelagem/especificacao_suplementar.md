@@ -7,6 +7,7 @@
 | 04/03/2022 |  0.1   | Criação do documento |  [José Luís](https://github.com/joseluis-rt)   |
 | 04/03/2022 |  0.2   | Elaboração do texto |  [José Luís](https://github.com/joseluis-rt)   |
 | 04/03/2022 |  0.3   | Adição de imagens |  [José Luís](https://github.com/joseluis-rt)   |
+| 04/03/2022 |  0.4   | Revisão do documento |  [Kayro César](https://github.com/kayrocesar)   |
 
 
 ## 1. Definição
@@ -28,69 +29,58 @@
 |[José Luís Ramos Teixeira](https://github.com/joseluis-rt)|
 
 ### 3.2 F - Funcionality (Funcionalidade)
-&emsp;&emsp;Representa todo aspecto funcional do software, ou seja seus requisitos. É uma categoria com diversas subcategorias que variam de acordo com a aplicação. Sua medição considera, principalmente, o cumprimento dos requisitos especificados.
-  
-&emsp;&emsp;Podendo incluir:
-- Conjuntos de recursos;
-- Recursos;
-- Segurança.
+&emsp;&emsp;Representa todo aspecto funcional do software, ou seja seus requisitos. É uma categoria com diversas subcategorias que variam de acordo com a aplicação. Sua medição considera, principalmente, o cumprimento dos requisitos especificados.Podendo incluir:<br><br>
+&emsp;&emsp;- Conjuntos de recursos<br>
+&emsp;&emsp;- Recursos<br>
+&emsp;&emsp;- Segurança<br>
 
 ### 3.3 U - Usability (Usabilidade)
-&emsp;&emsp;É o atributo que avalia a interface com o usuário. Possui diversas subcategorias.
-  
-&emsp;&emsp;Podendo incluir:
-- Fatores humanos
-- Estética
-- Consistência na interface com o usuário
-- Ajuda on-line e sensível ao contexto
-- Assistentes e agentes
-- Documentação do usuário
-- Materiais de treinamento
+&emsp;&emsp;É o atributo que avalia a interface com o usuário. Possui diversas subcategorias como:<br><br>
+&emsp;&emsp;- Fatores humanos<br>
+&emsp;&emsp;- Estética<br>
+&emsp;&emsp;- Consistência na interface com o usuário<br>
+&emsp;&emsp;- Ajuda on-line e sensível ao contexto<br>
+&emsp;&emsp;- Assistentes e agentes<br>
+&emsp;&emsp;- Documentação do usuário<br>
+&emsp;&emsp;- Materiais de treinamento<br>
 
 ### 3.4 R - Reliability (Confiabilidade)
-&emsp;&emsp;Refere-se a integridade, conformidade e interoperabilidade do software.
-  
-&emsp;&emsp;Podendo incluir:
-- Freqüência e gravidade de falha
-- Possibilidade de recuperação
-- Possibilidade de previsão
-- Precisão
-- Tempo médio entre falhas (MTBF)
+&emsp;&emsp;Refere-se a integridade, conformidade e interoperabilidade do software como:<br><br>
+&emsp;&emsp;- Freqüência e gravidade de falha<br>
+&emsp;&emsp;- Possibilidade de recuperação<br>
+&emsp;&emsp;- Possibilidade de previsão<br>
+&emsp;&emsp;- Precisão<br>
+&emsp;&emsp;- Tempo médio entre falhas (MTBF)<br>
 
 ### 3.5 P - Performance (Performance)
-&emsp;&emsp;Avalia os requisitos de desempenho do software. Podendo usar como medida diversos aspectos. 
-  
-&emsp;&emsp;Podendo incluir:
-- Velocidade
-- Eficiência
-- Disponibilidade
-- Produtividade
-- Tempo de resposta
-- Tempo de recuperação
-- Uso de recurso
+&emsp;&emsp;Avalia os requisitos de desempenho do software. Podendo usar como medida diversos aspectos como: <br><br>
+   &emsp;&emsp; - Velocidade<br>
+   &emsp;&emsp; - Eficiência<br>
+   &emsp;&emsp; - Disponibilidade<br>
+   &emsp;&emsp; - Produtividade<br>
+   &emsp;&emsp; - Tempo de resposta<br>
+   &emsp;&emsp; - Tempo de recuperação<br>
+   &emsp;&emsp; - Uso de recurso<br>
 
 ### 3.6 S - Suportability (Suportabilidade)
-&emsp;&emsp;Os requisitos de suportabilidade agrupam várias características.
-  
-&emsp;&emsp;Podendo incluir:
-- Possibilidade de teste
-- Extensibilidade
-- Possibilidade de adaptação
-- Possibilidade de manutenção
-- Compatibilidade
-- Possibilidade de configuração
-- Possibilidade de serviço
-- Possibilidade de instalação
-- Possibilidade de localização (internacionalização)
+&emsp;&emsp;Os requisitos de suportabilidade agrupam várias características, entre elas estão:<br><br>
+ &emsp;&emsp;- Possibilidade de teste<br>
+ &emsp;&emsp;- Extensibilidade<br>
+ &emsp;&emsp;- Possibilidade de adaptação<br>
+ &emsp;&emsp;- Possibilidade de manutenção<br>
+ &emsp;&emsp;- Compatibilidade<br>
+ &emsp;&emsp;- Possibilidade de configuração<br>
+ &emsp;&emsp;- Possibilidade de serviço<br>
+ &emsp;&emsp;- Possibilidade de instalação<br>
+ &emsp;&emsp;- Possibilidade de localização (internacionalização) <br>
 
 ### 3.7 "+"
-&emsp;&emsp;O “+” do acrônimo engloba outros requisitos não-funcionais que devem ser lembrados.
+&emsp;&emsp;O “+” do acrônimo engloba outros requisitos não-funcionais que devem ser lembrados.Alguns deles são:<br>
 
-&emsp;&emsp;São eles:
-- Requisitos de Design
-- Requisitos de implementação
-- Requisitos de interface
-- Requisitos físicos
+&emsp;&emsp;- Requisitos de Design<br>
+&emsp;&emsp;- Requisitos de implementação<br>
+&emsp;&emsp;- Requisitos de interface<br>
+&emsp;&emsp;- Requisitos físicos<br>
 
 <center>
   
