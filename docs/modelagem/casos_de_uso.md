@@ -167,7 +167,7 @@ Fonte: Elaboração dos autores.
 
 ### 3.8. Diagrama de Casos de Uso
 
-![Diagrama de Casos de uso](../assets/imagens/diagrama_use_case_PontoFacil.svg)
+![Diagrama de Casos de uso](../../assets/imagens/diagrama_use_case_PontoFacil.svg)
 
   <a href="https://requisitos-de-software.github.io/2021.2-PontoFacil/docs/assets/imagens/diagrama_use_case_PontoFacil.svg" target="_blank">Clique aqui</a> para ver o diagrama com mais detalhes.
 
