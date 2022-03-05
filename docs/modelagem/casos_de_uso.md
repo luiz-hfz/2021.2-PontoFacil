@@ -1,28 +1,50 @@
 # Casos de Uso
 
 
-### Histórico de versão
+## Histórico de versão
 
 |Data | Versão | Modificação | Autor(es)|
 | -- | -- | -- | -- |
-| 04.02.2022 | 0.1 | Criação do documento de Casos de Uso | [Kayro César](https://github.com/kayrocesar) |
+| 04/02/2022 | 0.1 | Criação do documento de Casos de Uso | [Kayro César](https://github.com/kayrocesar) |
+| 04/03/2022 |  0.2   | Adição da parte téorica do Diagrama de casos de Uso |  [Klyssmann Oliveira](https://github.com/klyssmannoliveira)   |
 
 
 
 
-### 1. Introdução
+## 1. Introdução
 <div align="justify">
-   Casos de uso são documentos textuais utilizados para especificar requisitos e possuem um detalhamento maior que as histórias de usuário. A recomendação é sejam escritos na fase de especificação dos requisitos e geralmente são escritos pelos próprios desenvolvedores do sistema, mas podem ser compreendidos e validados pelos usuários. (VALENTE, 2020)
+   Casos de uso são documentos textuais utilizados para especificar requisitos e possuem um detalhamento maior que as histórias de usuário. A recomendação é sejam escritos na fase de especificação dos requisitos e geralmente são escritos pelos próprios desenvolvedores do sistema, mas podem ser compreendidos e validados pelos usuários (VALENTE, 2020).
 </div>
 
-### 2. Metodologia
 <div align="justify">
-    No documento de casos de uso textual, o  primeiro aspecto a ser incluso é a utilização de uma perspectiva de um ator que deseja utilizar o sistema para atingir um determinado objetivo. O ator costuma ser um usuário humano e um elemento externo em relação ao sistema. Primeiramente, o caso de uso enumera os passos a serem realizados pelo ator e cada caso possui duas listas de passos (fluxo normal e extensões). O fluxo normal é o caminho ideal a ser percorrido pelo usuário, já as extensões representam caminhos alternativos na execução de um passo ou possíveis situações de erro. (VALENTE, 2020)
+   Já um diagrama de caso de uso é uma metodologia usada na análise do sistema para identificar, esclarecer e organizar os requisitos do sistema que são empregados em UML (Unified Modeling Language), uma notação padrão para a modelagem de objetos e sistemas do mundo real (ALERYANI, 2016). 
+</div>
+
+<div align="justify"> 
+    Existem quatro símbolos principais que são utilizados nos diagramas de caso de uso: (1) Atores; (2) Casos de uso; (3) Associação; e (4) Sistema de fronteira. A tabela 1 apresenta estes simbolos.
+</div>
+
+<div align="center">Tabela 1: Simbolos do Diagrama de Casos de Uso
+
+| Notação | Função | Símbolo |
+| :-: | :-- | :-: |
+| Atores | é uma pessoa ou um grupo de pessoas fora do sistema desempenha um papel em uma ou mais interações com o sistema, representa de onde a informação vem e para onde vai  | <img src="../../assets/imagens/atores.png" alt="Atores" width="500"/> |
+| Casos de uso | mostra todas as funções do sistema  | <img src="../../assets/imagens/caso_uso.png" alt="Casos de Uso" width="500"/>  |
+| Associação | representa a conexão entre casos de uso e atores | <img src="../../assets/imagens/associacao.png" alt="Associação" width="500"/>  |
+| Sistema de fronteira | determina o limite do sistema  | <img src="../../assets/imagens/fronteira.png" alt="Sistema de fronteira" width="500"/>  |
+
+Fonte: Elaboração dos autores.
+
+</div>
+
+## 2. Metodologia
+<div align="justify">
+    No documento de casos de uso textual, o  primeiro aspecto a ser incluso é a utilização de uma perspectiva de um ator que deseja utilizar o sistema para atingir um determinado objetivo. O ator costuma ser um usuário humano e um elemento externo em relação ao sistema. Primeiramente, o caso de uso enumera os passos a serem realizados pelo ator e cada caso possui duas listas de passos (fluxo normal e extensões. O fluxo normal é o caminho ideal a ser percorrido pelo usuário, já as extensões representam caminhos alternativos na execução de um passo ou possíveis situações de erro (VALENTE, 2020).
 </div>
 <br>
 
 
-### 3. Resultados
+## 3. Resultados
 <div align="justify">
     Utilizando a metodologia apresentada, foram produzidos os seguintes casos de uso:
 </div>
@@ -31,7 +53,7 @@
 <br>
 
 
-####  Registrar o ponto 
+###  3.1. Registrar o ponto 
 
 | Fluxo | Passo |Ação |  Ator | RF |
 | :---: | :---: |:---: | :---: | :---: |
@@ -48,7 +70,7 @@
 <br>
 <br>
 
-#### Registrar falta
+### 3.2. Registrar falta
 
 | Fluxo | Passo |Ação |  Ator | RF |
 | :---: | :---: |:---: | :---: | :---: |
@@ -67,7 +89,7 @@
  <br>
  <br>
 
-#### Apagar registros passados
+### 3.3. Apagar registros passados
 
 | Fluxo | Passo |Ação |  Ator | RF |
 | :---: | :---: |:---: | :---: | :---: |
@@ -82,7 +104,7 @@
  <br>
 
 
-#### Ativar a notificação de alarme 
+### 3.4. Ativar a notificação de alarme 
 
 | Fluxo | Passo |Ação |  Ator | RF |
 | :---: | :---: |:---: | :---: | :---: |
@@ -94,7 +116,7 @@
  <br>
  <br>
 
-#### Realizar Backup dos registros
+### 3.5. Realizar Backup dos registros
 
 | Fluxo | Passo |Ação |  Ator | RF |
 | :---: | :---: |:---: | :---: | :---: |
@@ -110,7 +132,7 @@
 
 
 
-#### Gerar extrato de registros
+### 3.6. Gerar extrato de registros
 
 | Fluxo | Passo |Ação |  Ator | RF |
 | :---: | :---: |:---: | :---: | :---: |
@@ -126,7 +148,7 @@
  <br>
  <br>
 
-#### Visualizar inconsistências nos registros de ponto 
+### 3.7. Visualizar inconsistências nos registros de ponto 
 
 | Fluxo | Passo |Ação |  Ator | RF |
 | :---: | :---: |:---: | :---: | :---: |
@@ -142,6 +164,7 @@
    
 </div>
 
+### 3.8. Diagrama de Casos de Uso
 
 
 
@@ -151,13 +174,14 @@
 
 
 
-
-### 4. Legenda
+## 4. Legenda
 
 RF - Requisito Funcional
 
 
-### 5. Referências
+## 5. Referências
 
 >VALENTE, Marco Túlio. Engenharia de Software Moderna: Princípios e Práticas para Desenvolvimento de Software com Produtividade, 2020.
+
+>ALERYANI, Arwa Y. Comparative study between data flow diagram and use case diagram. International Journal of Scientific and Research Publications, v. 6, n. 3, p. 124-126, 2016.
 
