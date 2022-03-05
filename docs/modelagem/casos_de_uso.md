@@ -26,18 +26,18 @@
 </div>
 <br>
 
-<div align="center">Tabela 1: Simbolos do Diagrama de Casos de Uso
+<div align="center"> Tabela 1: Simbolos do Diagrama de Casos de Uso</div>
 
 | Notação | Função | Símbolo |
-| :-: | :-- | :-: |
+| :-: | :--: | :-: |
 | (1) Atores | é uma pessoa ou um grupo de pessoas fora do sistema desempenha um papel em uma ou mais interações com o sistema, representa de onde a informação vem e para onde vai  | <img src="../../assets/imagens/atores.png" alt="Atores" width="200"/> |
 | (2) Casos de uso | mostra todas as funções do sistema  | <img src="../../assets/imagens/caso_uso.png" alt="Casos de Uso" width="200"/>  |
 | (3) Associação | representa a conexão entre casos de uso e atores | <img src="../../assets/imagens/associacao.png" alt="Associação" width="200"/>  |
 | (4) Sistema de fronteira | determina o limite do sistema  | <img src="../../assets/imagens/fronteira.png" alt="Sistema de fronteira" width="200"/>  |
 
-Fonte: Elaboração dos autores.
+<div align="center"> Fonte: Elaboração dos autores.</div>
 
-</div>
+
 
 <br>
 
