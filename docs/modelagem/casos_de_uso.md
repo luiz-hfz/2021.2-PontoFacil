@@ -7,6 +7,7 @@
 | -- | -- | -- | -- |
 | 04/02/2022 | 0.1 | Criação do documento de Casos de Uso | [Kayro César](https://github.com/kayrocesar) |
 | 04/03/2022 |  0.2   | Adição da parte téorica do Diagrama de casos de Uso |  [Klyssmann Oliveira](https://github.com/klyssmannoliveira)   |
+| 05/03/2022 |  0.3   | Diagrama de casos de Uso |  [Klyssmann Oliveira](https://github.com/klyssmannoliveira) e  [Kayro César](https://github.com/kayrocesar)  |
 
 
 
@@ -28,10 +29,10 @@
 
 | Notação | Função | Símbolo |
 | :-: | :-- | :-: |
-| Atores | é uma pessoa ou um grupo de pessoas fora do sistema desempenha um papel em uma ou mais interações com o sistema, representa de onde a informação vem e para onde vai  | <img src="../../assets/imagens/atores.png" alt="Atores" width="500"/> |
-| Casos de uso | mostra todas as funções do sistema  | <img src="../../assets/imagens/caso_uso.png" alt="Casos de Uso" width="500"/>  |
-| Associação | representa a conexão entre casos de uso e atores | <img src="../../assets/imagens/associacao.png" alt="Associação" width="500"/>  |
-| Sistema de fronteira | determina o limite do sistema  | <img src="../../assets/imagens/fronteira.png" alt="Sistema de fronteira" width="500"/>  |
+| (1) Atores | é uma pessoa ou um grupo de pessoas fora do sistema desempenha um papel em uma ou mais interações com o sistema, representa de onde a informação vem e para onde vai  | <img src="../../assets/imagens/atores.png" alt="Atores" width="500"/> |
+| (2) Casos de uso | mostra todas as funções do sistema  | <img src="../../assets/imagens/caso_uso.png" alt="Casos de Uso" width="500"/>  |
+| (3) Associação | representa a conexão entre casos de uso e atores | <img src="../../assets/imagens/associacao.png" alt="Associação" width="500"/>  |
+| (4) Sistema de fronteira | determina o limite do sistema  | <img src="../../assets/imagens/fronteira.png" alt="Sistema de fronteira" width="500"/>  |
 
 Fonte: Elaboração dos autores.
 
@@ -166,7 +167,9 @@ Fonte: Elaboração dos autores.
 
 ### 3.8. Diagrama de Casos de Uso
 
+![Diagrama de Casos de uso](../assets/imagens/diagrama_use_case_PontoFacil.svg)
 
+  <a href="https://requisitos-de-software.github.io/2021.2-PontoFacil/docs/assets/imagens/diagrama_use_case_PontoFacil.svg" target="_blank">Clique aqui</a> para ver o diagrama com mais detalhes.
 
 
 
