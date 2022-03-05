@@ -5,7 +5,7 @@
 
 |Data | Versão | Modificação | Autor(es)|
 | -- | -- | -- | -- |
-| 18.02.2022 | 0.1 | Criação do documento de Casos de Uso | [Kayro César](https://github.com/kayrocesar) |
+| 04.02.2022 | 0.1 | Criação do documento de Casos de Uso | [Kayro César](https://github.com/kayrocesar) |
 
 
 
@@ -17,7 +17,7 @@
 
 ### 2. Metodologia
 <div align="justify">
-    O primeiro aspecto a ser incluso nos casos de uso, é a utilização de uma perspectiva de um ator que deseja utilizar o sistema para atingir um determinado objetivo. O ator costuma ser um usuário humano e um elemento externo em relação ao sistema. Primeiramente, o caso de uso enumera os passos a serem realizados pelo ator e cada caso possui duas listas de passos (fluxo normal e extensões). O fluxo normal é o caminho ideal a ser percorrido pelo usuário, já as extensões representam caminhos alternativos na execução de um passo ou possíveis situações de erro. (VALENTE, 2020)
+    No documento de casos de uso textual, o  primeiro aspecto a ser incluso é a utilização de uma perspectiva de um ator que deseja utilizar o sistema para atingir um determinado objetivo. O ator costuma ser um usuário humano e um elemento externo em relação ao sistema. Primeiramente, o caso de uso enumera os passos a serem realizados pelo ator e cada caso possui duas listas de passos (fluxo normal e extensões). O fluxo normal é o caminho ideal a ser percorrido pelo usuário, já as extensões representam caminhos alternativos na execução de um passo ou possíveis situações de erro. (VALENTE, 2020)
 </div>
 <br>
 
@@ -87,7 +87,7 @@
 | Fluxo | Passo |Ação |  Ator | RF |
 | :---: | :---: |:---: | :---: | :---: |
 | Normal | <p  style=" color:#2094f3">1</p> |Funcionário seleciona a opção para ativar a notificação de alarme  | Funcionário de uma empresa | - |
-| Normal | <p style=" color:#2094f3">2 </p>  |Funcionário escolhe se deseja ativar alarme para iniciar, retornar ou encerrar o trabalho  |Funcionário de uma empresa | - |
+| Normal | <p style=" color:#2094f3">2 </p>  |Funcionário escolhe se deseja ativar alarme para começar e terminar o trabalho ou  intervalo   |Funcionário de uma empresa | - |
 | Normal |<p  style=" color:#2094f3">3</p> |Funcionário define se deseja antecipar o alarme  |Funcionário de uma empresa | - |
 | Normal | <p  style=" color:#2094f3">4</p> | Aplicativo ativa o alarme de acordo com o especificado pelo usuário  |Funcionário de uma empresa|[RF28](https://requisitos-de-software.github.io/2021.2-PontoFacil/elicitacao/priorizacao/moscow/) |
 
