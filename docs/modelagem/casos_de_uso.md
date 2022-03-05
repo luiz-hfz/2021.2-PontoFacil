@@ -8,6 +8,7 @@
 | 04/02/2022 | 0.1 | Criação do documento de Casos de Uso | [Kayro César](https://github.com/kayrocesar) |
 | 04/03/2022 |  0.2   | Adição da parte téorica do Diagrama de casos de Uso |  [Klyssmann Oliveira](https://github.com/klyssmannoliveira)   |
 | 05/03/2022 |  0.3   | Diagrama de casos de Uso |  [Klyssmann Oliveira](https://github.com/klyssmannoliveira) e  [Kayro César](https://github.com/kayrocesar)  |
+| 05/03/2022 |  0.4   | Revisão |  [Eduardo Maia](https://github.com/eduardomr) e  [José Luís](https://github.com/joseluis-rt)  |
 
 
 
