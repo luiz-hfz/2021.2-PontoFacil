@@ -91,7 +91,7 @@ Ocorre quando deseja-se verificar as informações sobre a carga horária do tra
 
 <br>
 
-## Falta
+## Folga
 | Nome | Folga |
 | -- | -- |
 | Sinônimos |Descanso, dispensa |
