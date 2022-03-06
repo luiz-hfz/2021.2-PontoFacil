@@ -84,7 +84,7 @@
 
 <center>
   
-<p align = "center"><img src="../../../assets/imagens/FURPS_resumo.jpg"></p><br>
+<p align = "center"><img src="https://raw.githubusercontent.com/Requisitos-de-Software/2021.2-PontoFacil/master/docs/assets/imagens/FURPS_resumo.jpg"></p><br>
   
 <figcaption>Imagem 1: Modelo FURPS+ resumido</figcaption>
   
@@ -130,7 +130,7 @@
   
 <center>
 
-<p align = "center"><img src="../../../assets/imagens/FURPS_grafico.jpg"></p><br>
+<p align = "center"><img src="https://raw.githubusercontent.com/Requisitos-de-Software/2021.2-PontoFacil/master/docs/assets/imagens/FURPS_grafico.jpg"></p><br>
   
 <figcaption>Gráfico 1: Categorização dos requisitos não funcionais pelo modelo FURPS+</figcaption>
 
