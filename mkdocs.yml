@@ -26,10 +26,10 @@ nav:
       - Priorização:
           - MoSCoW: elicitacao/priorizacao/moscow.md
   - Modelagem:
-      - Especificação Suplementar: modelagem/especificacao_suplementar.md
       - Cenários: modelagem/cenarios.md
       - Léxicos: modelagem/lexicos.md
       - Casos de Uso: modelagem/casos_de_uso.md
+      - Especificação Suplementar: modelagem/especificacao_suplementar.md
       - NFR Framework: modelagem/nfr_framework.md
       - Backlog:
           - Backlog do produto: modelagem/backlog/backlog.md
