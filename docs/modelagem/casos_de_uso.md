@@ -173,7 +173,7 @@
 
 ![Diagrama de Casos de uso](../../assets/imagens/diagrama_use_case_PontoFacil.svg)
 
-  <a href="https://requisitos-de-software.github.io/2021.2-PontoFacil/docs/assets/imagens/diagrama_use_case_PontoFacil.svg" target="_blank">Clique aqui</a> para ver o diagrama com mais detalhes.
+  <a href="https://raw.githubusercontent.com/Requisitos-de-Software/2021.2-PontoFacil/2ade84aa739cb7395cf80503f3d3edd3f8566105/docs/assets/imagens/diagrama_use_case_PontoFacil.svg" target="_blank">Clique aqui</a> para ver o diagrama com mais detalhes.
 
 
 
