@@ -171,14 +171,16 @@
 
 ### 3.8. Diagrama de Casos de Uso
 
-![Diagrama de Casos de uso](../../assets/imagens/diagrama_use_case_PontoFacil.svg)
+<div align="center">
+   <figcaption>Figura 1 - Diagrama de casos de uso</figcaption>
+    <img src="../../assets/imagens/diagrama_use_case_PontoFacil.svg" alt="diagrama de casos de uso">
+   <figcaption>Fonte: Elaboração dos autores.</figcaption>
 
-  <a href="https://raw.githubusercontent.com/Requisitos-de-Software/2021.2-PontoFacil/2ade84aa739cb7395cf80503f3d3edd3f8566105/docs/assets/imagens/diagrama_use_case_PontoFacil.svg" target="_blank">Clique aqui</a> para ver o diagrama com mais detalhes.
+   <br>
+   <br>
+  <a href="https://raw.githubusercontent.com/Requisitos-de-Software/2021.2-PontoFacil/2ade84aa739cb7395cf80503f3d3edd3f8566105/docs/assets/imagens/diagrama_use_case_PontoFacil.svg" target="_blank">Clique aqui</a> para ver o diagrama em tela cheia.
 
-
-
-
-
+</div>
 
 
 ## 4. Legenda
