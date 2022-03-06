@@ -5,7 +5,7 @@
 
 |Data | Versão | Modificação | Autor(es)|
 | -- | -- | -- | -- |
-| 04/02/2022 | 0.1 | Criação do documento de Casos de Uso | [Kayro César](https://github.com/kayrocesar) |
+| 04/02/2022 | 0.1 | Criação do documento e tabelas de caso de Uso | [Kayro César](https://github.com/kayrocesar) |
 | 04/03/2022 |  0.2   | Adição da parte téorica do Diagrama de casos de Uso |  [Klyssmann Oliveira](https://github.com/klyssmannoliveira)   |
 | 05/03/2022 |  0.3   | Diagrama de casos de Uso |  [Klyssmann Oliveira](https://github.com/klyssmannoliveira) e  [Kayro César](https://github.com/kayrocesar)  |
 | 05/03/2022 |  0.4   | Revisão |  [Eduardo Maia](https://github.com/eduardomr) e  [José Luís](https://github.com/joseluis-rt)  |
@@ -36,7 +36,7 @@
 | (3) Associação | representa a conexão entre casos de uso e atores | <img src="../../assets/imagens/associacao.png" alt="Associação" width="200"/>  |
 | (4) Sistema de fronteira | determina o limite do sistema  | <img src="../../assets/imagens/fronteira.png" alt="Sistema de fronteira" width="200"/>  |
 
-<div align="center"> Fonte: Elaboração dos autores.</div>
+<div align="center"> Fonte: Elaboração dos autores</div>
 
 
 
@@ -59,6 +59,8 @@
 
 
 ###  3.1. Registrar o ponto 
+<br>
+<div align="center"> Tabela 2: Caso de uso - Registrar o ponto</div>
 
 | Fluxo | Passo |Ação |  Ator | RF |
 | :---: | :---: |:---: | :---: | :---: |
@@ -71,11 +73,14 @@
 | Extensão|  <p  style=" color:#FF0000">4a</p>|Funcionário desiste de registrar o ponto |Funcionário de uma empresa |- | 
 | Extensão|  <p  style=" color:#FF0000">5a</p>| Aplicativo cancela a operação |Funcionário de uma empresa |- | 
 
+<div align="center"> Fonte: Elaboração dos autores</div>
 
 <br>
 <br>
 
 ### 3.2. Registrar falta
+<br>
+<div align="center"> Tabela 3: Caso de uso - Registrar falta</div>
 
 | Fluxo | Passo |Ação |  Ator | RF |
 | :---: | :---: |:---: | :---: | :---: |
@@ -88,6 +93,7 @@
 | Extensão|  <p  style=" color:#FF0000">4a</p>|Funcionário desiste de registrar o ponto|Funcionário de uma empresa |- | 
 | Extensão|  <p  style=" color:#FF0000">5a</p>| Aplicativo cancela a operação |Funcionário de uma empresa |- | 
 
+<div align="center"> Fonte: Elaboração dos autores</div>
  
 
   
@@ -95,6 +101,8 @@
  <br>
 
 ### 3.3. Apagar registros passados
+<br>
+<div align="center"> Tabela 4: Caso de uso - Apagar registros passados</div>
 
 | Fluxo | Passo |Ação |  Ator | RF |
 | :---: | :---: |:---: | :---: | :---: |
@@ -105,11 +113,14 @@
 | Extensão| <p  style=" color:#FF0000">4a</p> |Funcionário desiste de apagar o registro desejado |Funcionário de uma empresa |- | 
 | Extensão|  <p  style=" color:#FF0000">5a</p>|Aplicativo cancela a operação|Funcionário de uma empresa |- | 
 
+<div align="center"> Fonte: Elaboração dos autores</div>
  <br>
  <br>
 
 
 ### 3.4. Ativar a notificação de alarme 
+<br>
+<div align="center"> Tabela 5: Caso de uso -  Ativar a notificação de alarme </div>
 
 | Fluxo | Passo |Ação |  Ator | RF |
 | :---: | :---: |:---: | :---: | :---: |
@@ -118,10 +129,14 @@
 | Normal |<p  style=" color:#2094f3">3</p> |Funcionário define se deseja antecipar o alarme  |Funcionário de uma empresa | - |
 | Normal | <p  style=" color:#2094f3">4</p> | Aplicativo ativa o alarme de acordo com o especificado pelo usuário  |Funcionário de uma empresa|[RF28](https://requisitos-de-software.github.io/2021.2-PontoFacil/elicitacao/priorizacao/moscow/) |
 
+<div align="center"> Fonte: Elaboração dos autores</div>
+
  <br>
  <br>
 
 ### 3.5. Realizar Backup dos registros
+<br>
+<div align="center"> Tabela 6: Caso de uso -  Realizar Backup dos registros </div>
 
 | Fluxo | Passo |Ação |  Ator | RF |
 | :---: | :---: |:---: | :---: | :---: |
@@ -132,12 +147,16 @@
 | Extensão| <p  style=" color:#FF0000">3a</p> |Funcionário desiste fazer o backup |Funcionário de uma empresa |- | 
 | Extensão|  <p  style=" color:#FF0000">4a</p>|Aplicativo cancela a operação|Funcionário de uma empresa |- | 
 
+<div align="center"> Fonte: Elaboração dos autores</div>
+
  <br>
  <br>
 
 
 
 ### 3.6. Gerar extrato de registros
+<br>
+<div align="center"> Tabela 7: Caso de uso - Gerar extrato de registros </div>
 
 | Fluxo | Passo |Ação |  Ator | RF |
 | :---: | :---: |:---: | :---: | :---: |
@@ -150,16 +169,22 @@
 | Extensão|  <p  style=" color:#FF0000">3a</p>|Funcionário desiste de gerar o extrato|Funcionário de uma empresa |-|
 | Extensão|  <p  style=" color:#FF0000">4a</p>|Aplicativo cancela a operação|Funcionário de uma empresa |-|
 
+<div align="center"> Fonte: Elaboração dos autores</div>
+
  <br>
  <br>
 
-### 3.7. Visualizar inconsistências nos registros de ponto 
+### 3.7. Visualizar inconsistências nos registros de ponto  
+<br>
+<div align="center"> Tabela 8: Caso de uso - Visualizar inconsistências nos registros de ponto
+</div>
 
 | Fluxo | Passo |Ação |  Ator | RF |
 | :---: | :---: |:---: | :---: | :---: |
 | Normal | <p  style=" color:#2094f3">1</p> |Funcionário seleciona a opção para visualizar as inconsistências nos registros de ponto | Funcionário de uma empresa |- |
 | Normal | <p style=" color:#2094f3">2 </p>  |Aplicativo exibe a lista de inconsistências (cada item da lista possui uma data) e a quantidade total das mesmas |Funcionário de uma empresa |[RF12](https://requisitos-de-software.github.io/2021.2-PontoFacil/elicitacao/priorizacao/moscow/)    |
 
+<div align="center"> Fonte: Elaboração dos autores</div>
 
  <br>
  <br>
