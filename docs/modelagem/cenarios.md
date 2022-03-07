@@ -7,7 +7,7 @@
 | 06/03/2022 | 0.2 | Revisão | [Klysssmann Oliveira](https://github.com/klyssmannoliveira) |
 
 
-## 1. Resumo
+## 1. Introdução
 <p align="justify">&emsp;Cenários são situações imaginários bastante detalhadas que demonstra as pessoas realizando atividades no sistema. Os cenários podem ser utilizados em diversas etapas do processo, com diferentes objetivos: para descrever
 uma história num domínio de atividade, visando capturar requisitos e auxiliar no entendimento da
 atividade, levantar questões sobre a introdução de tecnologia, explorar diferentes soluções de design e
