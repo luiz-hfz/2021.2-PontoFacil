@@ -4,6 +4,7 @@ theme:
   palette:
     primary: blue
   logo: assets/logos/ponto_facil.png
+  favicon: assets/logos/ponto_facil.png
   language: 'pt'
   features:
     - navigation.instant
