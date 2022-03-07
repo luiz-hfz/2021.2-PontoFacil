@@ -6,7 +6,7 @@
 |Data | Versão | Modificação | Autor(es)|
 | -- | -- | -- | -- |
 | 06/03/2022 | 0.1 | Criação do documento de Backlog do produto | [Kayro César](https://github.com/kayrocesar) |
-| 06/03/2022 | 0.2 | Inclusão de novo Épico e User Stories | [Eduardo Maia](https://github.com/eduardomr) |
+| 07/03/2022 | 0.2 | Inclusão de novo Épico e User Stories | [Eduardo Maia](https://github.com/eduardomr) |
 
 
 
