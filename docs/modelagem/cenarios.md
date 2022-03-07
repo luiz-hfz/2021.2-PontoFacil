@@ -3,7 +3,9 @@
 ### Histórico de versão
 |Data | Versão | Modificação | Autor(es)|
 | -- | -- | -- | -- |
-| 04/03/2022 | 0.1 | Criação do documento | [Lorenzo Santos](https://github.com/kayrocesar) |
+| 04/03/2022 | 0.1 | Criação do documento | [Lorenzo Santos](https://github.com/lorenzo7377) |
+| 06/03/2022 | 0.2 | Revisão | [Klysssmann Oliveira](https://github.com/klyssmannoliveira) |
+
 
 ## 1. Resumo
 <p align="justify">&emsp;Cenários são situações imaginários bastante detalhadas que demonstra as pessoas realizando atividades no sistema. Os cenários podem ser utilizados em diversas etapas do processo, com diferentes objetivos: para descrever
