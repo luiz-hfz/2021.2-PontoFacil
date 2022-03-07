@@ -6,7 +6,7 @@
 |    Data    | Versão |                Modificação                |       Autor        |
 | :-------- | :---- | :--------------------------------------- | :---------------- |
 | 02/03/2022 |  0.1   | Criação do documento e elaboração do texto |  [Eduardo Maia](https://github.com/eduardomr)   |
-
+| 06/03/2022 |  0.1   | Revisão do documento |  [Lorenzo Santos](https://github.com/lorenzo7377)   |
 
 
 ## 1. Introdução
