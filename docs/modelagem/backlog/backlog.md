@@ -6,6 +6,7 @@
 |Data | Versão | Modificação | Autor(es)|
 | -- | -- | -- | -- |
 | 06/03/2022 | 0.1 | Criação do documento de Backlog do produto | [Kayro César](https://github.com/kayrocesar) |
+| 06/03/2022 | 0.2 | Inclusão de novo Épico e User Stories | [Eduardo Maia](https://github.com/eduardomr) |
 
 
 
@@ -31,27 +32,8 @@
 
 ## 4. Backlog
 
-| US ID| Requisito | Eu,como usuário gostaria de... |Para que...| Prioridade|
-| :---: | :---: | :---: |:---: |:---: |
-| |RF12 | O aplicativo deve ser capaz de identificar inconsistências no registro de ponto, como por exemplo a ausência de registro no dia |  | Should |
-| |RF16 | O usuário deve ser capaz de visualizar seu banco de horas no período desejado no formato de gráfico de linhas |  | Could |
-| |RNF01 |O aplicativo deve ter opções de linguagem (português e inglês) |  | Would |
-| |RNF02 | O Sistema deverá ser acessível por meio de dispositivos móveis |  | Must |
-| |RNF03 | O aplicativo deve ter opções de tema (claro e escuro) |  | Would |
-| |RNF04 | O aplicativo deve garantir a segurança dos dados do usuário |  | Must |
-| |RNF05 |O Sistema deve ter layout compreensível e objetivo |  | Could |
-| |RNF06 | O aplicativo deve possuir interface acessível e intuitiva |  | Could |
-| |RF20 | O usuário pode optar por idiomas (português e inglês) |  | Would |
-| |RF21 | O usuário deve ser capaz de visualizar seus registro no dia, na semana e no mês |  | Must |
-| |RNF08 | O aplicativo deve ser capaz de calcular o saldo de horas com base no registro do ponto e tolerância |  | Must |
-| |RF25 | O usuário deve ser capaz de filtrar os parâmetros do gráfico de linhas (primeiro ponto, ponto de saída, saldo total, saldo do dia) |  | Would |
-| |RF27 | O Usuário deve ser capaz de consultar o saldo de horas do dia |  | Should |
-| |RF32 | O Usuário deve ser capaz de gerar um extrato dos seus registros de acordo com os parâmetros que ele quiser |  | Should |
-| |RF33 | O Usuário deve ser capaz de consultar o saldo de horas total (do mês) |  | Must |
 
-
-
-EPICO 01 : <br><br> Eu, como usuário gostaria de poder gerenciar meus registros, para que as minhas atividades relacionadas ao trabalho fiquem organizadas e salvas da maneira que eu quero
+EPICO 01 : <br><br> Eu, como usuário gostaria de poder gerenciar meus registros, para que as minhas atividades relacionadas ao trabalho fiquem organizadas e salvas da maneira que eu quero.
 
 | US ID| Requisito | Eu,como usuário gostaria de... |Para que...| Prioridade|
 | :---: | :---: | :---: |:---: |:---: |
@@ -74,7 +56,7 @@ EPICO 01 : <br><br> Eu, como usuário gostaria de poder gerenciar meus registros
 |US31|RF31 | poder escrever uma descrição para cada registro |possa descrever mais detalhadamente informações sobre o registro | Would |
 |US34 |RF34 | poder registrar hora extra |  eu saiba quantas horas extra eu trabalhei  | Should |
 
-EPICO 02 : <br><br> Eu, como usuário gostaria de poder fazer backup dos meus dados, para que possa manter uma cópia de segurança dos arquivos
+EPICO 02 : <br><br> Eu, como usuário gostaria de poder fazer backup dos meus dados, para que possa manter uma cópia de segurança dos arquivos.
 
 | US ID| Requisito | Eu,como usuário gostaria de... |Para que...| Prioridade|
 | :---: | :---: | :---: |:---: |:---: |
@@ -83,7 +65,7 @@ EPICO 02 : <br><br> Eu, como usuário gostaria de poder fazer backup dos meus da
 |US28 |RF28 | poder fazer  backup dos meus registros automaticamente em nuvem ou local | eu tenha mais de um tipo de cópia de segurança | Could |
 
 
-EPICO 03 : <br><br> Eu, como usuário gostaria configurar e personalizar aspectos acerca dos horários e registros, para que possa adaptar as configurações com as minhas necessidades
+EPICO 03 : <br><br> Eu, como usuário gostaria configurar e personalizar aspectos acerca dos horários e registros, para que possa adaptar as configurações com as minhas necessidades.
 
 | US ID| Requisito | Eu,como usuário gostaria de... |Para que...| Prioridade|
 | :---: | :---: | :---: |:---: |:---: |
@@ -93,6 +75,22 @@ EPICO 03 : <br><br> Eu, como usuário gostaria configurar e personalizar aspecto
 |US19 |RF19 | poder configurar as notificações que o aplicativo informa (aviso de horário de entrada, saída, intervalo) |  | Would |
 |US22 |RF22 | poder de configurar a qualidade e resolução da foto armazenada | eu possa ter a qualidade desejada na foto| Would |
 |US24 |RF24 | poder ativar a notificação de alarme | eu seja avisado acerca de alguma atividade que devo realizar | Could |
+
+
+EPICO 04 : <br><br> Eu, como usuário gostaria visualizar meus registros de ponto de diferentes formas, para que possa entender de forma geral.
+
+
+| US ID| Requisito | Eu,como usuário gostaria de... |Para que...| Prioridade|
+| :---: | :---: | :---: |:---: |:---: |
+|US12 |RF12 | visualizar inconsistências no registro de ponto, como por exemplo a ausência de registro no dia | eu possa corrigir os erros no registro de ponto | Should |
+|US16 |RF16 | visualizar meu banco de horas no período desejado no formato de gráfico de linhas | eu tenha noção do volume de horas trabalhadas | Could |
+|US25|RF25 |ser capaz de filtrar os parâmetros do gráfico de linhas | eu possa inferir informações mais específicas no gráfico | Would |
+|US20|RF20 | optar por diferentes opções de idiomas | eu possa entender as informações apresentadas | Would |
+|US21 |RF21 |visualizar meus registros no dia, na semana e no mês | eu acompanhe meu volume de horas trabalhadas no período que desejo| Must |
+|US27 |RF27 | consultar meu saldo de horas do dia | eu acompanhe meu volume de horas trabalhadas | Should |
+|US32 |RF32 |gerar um extrato dos meus registros de ponto em qualquer período determinado | eu possa apresentar ao meu empregador | Should |
+|US33 |RF33 |consultar o saldo de horas total (do mês) | eu acompanhe meu volume de horas mensal trabalhadas  | Must |
+
 
 <br>
 <br>
