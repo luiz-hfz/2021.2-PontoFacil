@@ -7,6 +7,7 @@
 | -- | -- | -- | -- |
 | 06/03/2022 | 0.1 | Criação do documento de Backlog do produto | [Kayro César](https://github.com/kayrocesar) |
 | 07/03/2022 | 0.2 | Inclusão de novo Épico e User Stories | [Eduardo Maia](https://github.com/eduardomr) |
+| 08/03/2022 | 0.2 | Criação da tabela de backlog | [Eduardo Maia](https://github.com/eduardomr) |
 
 
 
@@ -32,8 +33,107 @@
 
 ## 4. Backlog
 
+<table>
+    <thead>
+        <tr>
+            <th style="text-align:center">Épico</th>
+            <th style="text-align:center">US ID</th>
+            <th style="text-align:center">História de Usuário</th>
+        </tr>
+    </thead>
+    <tbody >
+        <tr>
+            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);" rowspan="18"><a href="#epico-01" >Épico 01 -  Gerenciamento de Registros </a></td>
+            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);"><a href="#" >US01</a></td>
+            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Eu, como um novo usuário do sistema,poder registrar o ponto de entrada, para que eu saiba quando iniciei o trabalho.</td>
+        </tr>
+        <tr>
+            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);"><a href="../User-Stories/US02/" >US02</a></td>
+            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Eu, como um usuário do sistema, poder registrar o ponto de saída para que eu saiba quando eu sai do trabalho.</td>
+        </tr>
+        <tr>
+            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);"><a href="../User-Stories/US03/" >US03</a></td>
+            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Eu, como um usuário do sistema, desejo poder registrar o ponto de saída para o almoço para que eu saiba quando eu sai para almoçar.</td>
+        </tr>
+        <tr>
+            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);"><a href="../User-Stories/US04/" >US04</a></td>
+            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Eu, como um usuário do sistema, desejo poder guardar informações do horário de trabalho para cada dia da semana que eu mantenha os registros organizados e separados.</td>
+        </tr>
+        <tr>
+            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);"><a href="../User-Stories/US05/" >US05</a></td>
+            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Eu, como um usuário do sistema, desejo poder apagar registros passados para que eu possa manter apenas os registros desejados.</td>
+        </tr>
+        <tr>
+            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);"><a href="../User-Stories/US06/" >US06</a></td>
+            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Eu, como um usuário do sistema, desejo poder copiar registros passados para que eu possa mover o registro para outro dia.</td>
+        </tr>
+        <tr>
+            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);"><a href="../User-Stories/US07/" >US07</a></td>
+            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Eu, como um usuário do sistema, desejo poder inserir o saldo de horas já existente para que possa controlar as horas trabalhadas.</td>
+        </tr>
+        <tr>
+            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);"><a href="../User-Stories/US08/" >US08</a></td>
+            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Eu, como um usuário do sistema, desejo poder registrar o ponto de retorno do almoço para que eu saiba quando eu voltei do almoço.</td>
+        </tr>
+        <tr>
+            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);"><a href="../User-Stories/US13/" >US13</a></td>
+            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Eu, como um usuário do sistema, desejo poder registrar o ponto eletrônico através de uma Tag NFC para que eu tenha mais praticidade e agilidade no registro.</td>
+        </tr>
+        <tr>
+            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);"><a href="../User-Stories/US15/" >US15</a></td>
+            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Eu, como um usuário do sistema, desejo poder zerar o saldo de horas total para que eu possa recomeçar os registros do zero.</td>
+        </tr>
+        <tr>
+            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);"><a href="../User-Stories/US17/" >US17</a></td>
+            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Eu, como um usuário do sistema, desejo poder registrar falta para que eu saiba quando eu faltei.</td>
+        </tr>
+        <tr>
+            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);"><a href="../User-Stories/US18/" >US18</a></td>
+            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Eu, como um usuário do sistema, desejo poder adicionar uma foto do registro do ponto para que tenha certeza que registrei o ponto.</td>
+        </tr>
+        <tr>
+            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);"><a href="../User-Stories/US23/" >US23</a></td>
+            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Eu, como um usuário do sistema, desejo poder apagar todos os registros para que eu possa apagar tudo que registrei.</td>
+        </tr>
+        <tr>
+            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);"><a href="../User-Stories/US26/" >US26</a></td>
+            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Eu, como um usuário do sistema, desejo poder registrar folga para que eu saiba quando eu folguei.</td>
+        </tr>
+        <tr>
+            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);"><a href="../User-Stories/US29/" >US29</a></td>
+            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Eu, como um usuário do sistema, desejo poder editar registros passados que possa corrigir erros que cometi.</td>
+        </tr>
+        <tr>
+            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);"><a href="../User-Stories/US30/" >US30</a></td>
+            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Eu, como um usuário do sistema, desejo poder registrar férias para que eu saiba quando eu entrei de férias.</td>
+        </tr>
+        <tr>
+            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);"><a href="../User-Stories/US31/" >US31</a></td>
+            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Eu, como um usuário do sistema, desejo poder escrever uma descrição para cada registro para que possa descrever mais detalhadamente informações sobre o registro.</td>
+        </tr>
+        <tr>
+            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);"><a href="../User-Stories/US34/" >US34</a></td>
+            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Eu, como um usuário do sistema, desejo poder registrar hora extra para que eu saiba quantas horas extra eu trabalhei.</td>
+        </tr>
+        <tr>
+        </tr>
+        <tr>
+            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);" rowspan="7"><a href="#epico-02" >Épico 02 - Backup </a></td>
+            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);"><a href="../User-Stories/US05/">USXX</a></td>
+            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Eu, como usuario, desejo xxxxxx, para que xxxxxxxxxxxxxxxx.</td>    
+        </tr>
+        </tr>
+        <tr>
+        </tr>
+    </tbody>
+</table>
 
-EPICO 01 : <br><br> Eu, como usuário gostaria de poder gerenciar meus registros, para que as minhas atividades relacionadas ao trabalho fiquem organizadas e salvas da maneira que eu quero.
+
+
+## 5. Épicos
+
+### EPICO 01 : 
+Gerenciamento de Registros <br><br> Eu, como usuário gostaria de poder gerenciar meus registros, para que as minhas atividades relacionadas ao trabalho fiquem organizadas e salvas da maneira que eu quero.
 
 | US ID| Requisito | Eu,como usuário gostaria de... |Para que...| Prioridade|
 | :---: | :---: | :---: |:---: |:---: |
@@ -56,7 +156,8 @@ EPICO 01 : <br><br> Eu, como usuário gostaria de poder gerenciar meus registros
 |US31|RF31 | poder escrever uma descrição para cada registro |possa descrever mais detalhadamente informações sobre o registro | Would |
 |US34 |RF34 | poder registrar hora extra |  eu saiba quantas horas extra eu trabalhei  | Should |
 
-EPICO 02 : <br><br> Eu, como usuário gostaria de poder fazer backup dos meus dados, para que possa manter uma cópia de segurança dos arquivos.
+### EPICO 02 : 
+Backup <br><br> Eu, como usuário gostaria de poder fazer backup dos meus dados, para que possa manter uma cópia de segurança dos arquivos.
 
 | US ID| Requisito | Eu,como usuário gostaria de... |Para que...| Prioridade|
 | :---: | :---: | :---: |:---: |:---: |
@@ -65,7 +166,8 @@ EPICO 02 : <br><br> Eu, como usuário gostaria de poder fazer backup dos meus da
 |US28 |RF28 | poder fazer  backup dos meus registros automaticamente em nuvem ou local | eu tenha mais de um tipo de cópia de segurança | Could |
 
 
-EPICO 03 : <br><br> Eu, como usuário gostaria configurar e personalizar aspectos acerca dos horários e registros, para que possa adaptar as configurações com as minhas necessidades.
+### EPICO 03 : 
+Definição de Padrões <br><br> Eu, como usuário gostaria configurar e personalizar aspectos acerca dos horários e registros, para que possa adaptar as configurações com as minhas necessidades.
 
 | US ID| Requisito | Eu,como usuário gostaria de... |Para que...| Prioridade|
 | :---: | :---: | :---: |:---: |:---: |
@@ -77,7 +179,8 @@ EPICO 03 : <br><br> Eu, como usuário gostaria configurar e personalizar aspecto
 |US24 |RF24 | poder ativar a notificação de alarme | eu seja avisado acerca de alguma atividade que devo realizar | Could |
 
 
-EPICO 04 : <br><br> Eu, como usuário gostaria visualizar meus registros de ponto de diferentes formas, para que possa entender de forma geral.
+### EPICO 04 : 
+Visualização de Registros <br><br> Eu, como usuário gostaria visualizar meus registros de ponto em diferentes formatos, para que possa entender de forma geral.
 
 
 | US ID| Requisito | Eu,como usuário gostaria de... |Para que...| Prioridade|
@@ -100,7 +203,7 @@ EPICO 04 : <br><br> Eu, como usuário gostaria visualizar meus registros de pont
 ## 5. Legenda
 
 RF - Requisito Funcional <br>
-RNF - Requisito Não Funcional
+US - User Story<br>
 
 ## 6. Referências
 
