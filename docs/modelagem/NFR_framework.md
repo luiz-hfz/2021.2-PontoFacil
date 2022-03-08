@@ -127,7 +127,7 @@
 
 ## 5. Legenda
 
-RNF - Requisito Não-Funcional
+<p align = "center"><img src="https://raw.githubusercontent.com/Requisitos-de-Software/2021.2-PontoFacil/master/docs/assets/imagens/legenda.png"></p><br>
 
 
 ## 6. Referências
