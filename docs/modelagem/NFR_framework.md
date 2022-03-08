@@ -6,6 +6,10 @@
 | -- | -- | -- | -- |
 | 07/03/2022 |  0.1   | Criação do documento e Metodologia|  [José Luís](https://github.com/joseluis-rt)|
 | 07/03/2022 |  0.2   | Introdução |  [Klyssmann Oliveira](https://github.com/klyssmannoliveira)|
+| 07/03/2022 |  0.3   | Metodologia |  [José Luís](https://github.com/joseluis-rt)|
+| 07/03/2022 |  0.4   | Criação dos Diagramas |  [José Luís](https://github.com/joseluis-rt) e [Klyssmann Oliveira](https://github.com/klyssmannoliveira)|
+
+
 
 
 
@@ -16,6 +20,8 @@
 <p style="text-align: justify"> O <i>Framework</i> utiliza-se de um conceito que não possui um critério de satisfação nem objetivo claro para representar um requisito não funcional, chamado de <i>softgoal</i>. Assim, é possível visualizar o funcionamento do <i>NFR Framework</i> através de um SIG (<i>Softgoal Interdependency Graph</i>), que é um gráfico de interdependência entre os <i>softgoals</i> (SILVA, 2019)</p>
 
 ## 2. Metodologia
+
+<p style="text-align: justify"> Por meio do NFR Framework procuramos estabelecer as funcionalidades dos requisitos não-funcionais através da implementação de diagramas e  análises de suas possíveis propagações. Além disso, por meio dos softgoals, que registram as considerações do desenvolvedor a respeito dos softgoals e mostra suas interdependências, conseguimos decompor e organizar os grafos. Os autores se reuniram por meio da ferramenta de comunicação Discord e para realização dos diagramas foi utilizado o Lucidchart. </p>
 
 
 ## 3. Requisitos não funcionais
@@ -127,8 +133,15 @@
 
 ## 5. Legenda
 
+<center>
+  
 <p align = "center"><img src="https://raw.githubusercontent.com/Requisitos-de-Software/2021.2-PontoFacil/master/docs/assets/imagens/legenda.png"></p><br>
 
+<figcaption>Legenda</figcaption>
+
+</center>
+
+<br>
 
 ## 6. Referências
 
