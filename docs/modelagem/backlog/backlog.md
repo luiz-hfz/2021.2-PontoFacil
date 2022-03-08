@@ -39,6 +39,7 @@
             <th style="text-align:center">Épico</th>
             <th style="text-align:center">US ID</th>
             <th style="text-align:center">História de Usuário</th>
+            <th style="text-align:center"></th>
         </tr>
     </thead>
     <tbody >
@@ -202,7 +203,9 @@
 ## 5. Épicos
 
 ### EPICO 01 : 
+<div align="justify">
 Gerenciamento de Registros <br><br> Eu, como usuário gostaria de poder gerenciar meus registros, para que as minhas atividades relacionadas ao trabalho fiquem organizadas e salvas da maneira que eu quero.
+</div>
 
 | US ID| Requisito | Eu,como usuário gostaria de... |Para que...| Prioridade|
 | :---: | :---: | :---: |:---: |:---: |
@@ -225,8 +228,10 @@ Gerenciamento de Registros <br><br> Eu, como usuário gostaria de poder gerencia
 |US17|RF31 | poder escrever uma descrição para cada registro |possa descrever mais detalhadamente informações sobre o registro | Would |
 |US18 |RF34 | poder registrar hora extra |  eu saiba quantas horas extra eu trabalhei  | Should |
 
-### EPICO 02 : 
+### EPICO 02 :
+<div align="justify"> 
 Backup <br><br> Eu, como usuário gostaria de poder fazer backup dos meus dados, para que possa manter uma cópia de segurança dos arquivos.
+</div>
 
 | US ID| Requisito | Eu,como usuário gostaria de... |Para que...| Prioridade|
 | :---: | :---: | :---: |:---: |:---: |
@@ -236,7 +241,9 @@ Backup <br><br> Eu, como usuário gostaria de poder fazer backup dos meus dados,
 
 
 ### EPICO 03 : 
+<div align="justify">
 Definição de Padrões <br><br> Eu, como usuário gostaria configurar e personalizar aspectos acerca dos horários e registros, para que possa adaptar as configurações com as minhas necessidades.
+</div>
 
 | US ID| Requisito | Eu,como usuário gostaria de... |Para que...| Prioridade|
 | :---: | :---: | :---: |:---: |:---: |
@@ -249,8 +256,9 @@ Definição de Padrões <br><br> Eu, como usuário gostaria configurar e persona
 
 
 ### EPICO 04 : 
+<div align="justify">
 Visualização de Registros <br><br> Eu, como usuário gostaria visualizar meus registros de ponto em diferentes formatos, para que possa entender de forma geral.
-
+</div>
 
 | US ID| Requisito | Eu,como usuário gostaria de... |Para que...| Prioridade|
 | :---: | :---: | :---: |:---: |:---: |
