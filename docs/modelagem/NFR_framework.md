@@ -36,6 +36,90 @@
 
 ## 4. Diagramas
 
+### 4.1 Geral
+
+<center>
+
+<p align = "center"><img src="https://raw.githubusercontent.com/Requisitos-de-Software/2021.2-PontoFacil/master/docs/assets/imagens/geral.png"></p><br>
+  
+<figcaption>Diagrama 1: Geral - NFR Framework</figcaption>
+
+</center>
+
+<br>
+  
+### 4.2 Usabilidade
+
+<center>
+
+<p align = "center"><img src="https://raw.githubusercontent.com/Requisitos-de-Software/2021.2-PontoFacil/master/docs/assets/imagens/usabilidade_NFR.png"></p><br>
+  
+<figcaption>Diagrama 2: Usabilidade - NFR Framework</figcaption>
+
+</center>
+
+<br>
+
+### 4.3 Usabilidade Propagação
+
+<center>
+
+<p align = "center"><img src="https://raw.githubusercontent.com/Requisitos-de-Software/2021.2-PontoFacil/master/docs/assets/imagens/usabilidade_propagacao_NFR.png"></p><br>
+  
+<figcaption>Diagrama 3: Usabilidade Propagação - NFR Framework</figcaption>
+
+</center>
+
+<br>
+
+### 4.4 Segurança
+
+<center>
+
+<p align = "center"><img src="https://raw.githubusercontent.com/Requisitos-de-Software/2021.2-PontoFacil/master/docs/assets/imagens/seguranca_NFR.png"></p><br>
+  
+<figcaption>Diagrama 4: Segurança - NFR Framework</figcaption>
+
+</center>
+
+<br>
+
+### 4.5 Segurança Propagação
+
+<center>
+
+<p align = "center"><img src="https://raw.githubusercontent.com/Requisitos-de-Software/2021.2-PontoFacil/master/docs/assets/imagens/seguranca_propagacao_NFR.png"></p><br>
+  
+<figcaption>Diagrama 5: Segurança Propagação - NFR Framework</figcaption>
+
+</center>
+
+<br>
+
+### 4.6 Suportabilidade
+
+<center>
+
+<p align = "center"><img src="https://raw.githubusercontent.com/Requisitos-de-Software/2021.2-PontoFacil/master/docs/assets/imagens/suportabilidade_NFR.png"></p><br>
+  
+<figcaption>Diagrama 6: Suportabilidade - NFR Framework</figcaption>
+
+</center>
+
+<br>
+
+### 4.7 Suportabilidade Propagação
+
+<center>
+
+<p align = "center"><img src="https://raw.githubusercontent.com/Requisitos-de-Software/2021.2-PontoFacil/master/docs/assets/imagens/propagacao_suportabilidade.png"></p><br>
+  
+<figcaption>Diagrama 7: Suportabilidade Propagação - NFR Framework</figcaption>
+
+</center>
+
+<br>
+
 
 ## 5. Legenda
 
