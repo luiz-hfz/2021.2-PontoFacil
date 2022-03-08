@@ -4,12 +4,16 @@
 
 |Data | Versão | Modificação | Autor(es)|
 | -- | -- | -- | -- |
-| 07/03/2022 |  0.1   | Criação do documento |  [Klyssmann Oliveira](https://github.com/klyssmannoliveira) e [José Luís](https://github.com/joseluis-rt)|
+| 07/03/2022 |  0.1   | Criação do documento e Metodologia|  [José Luís](https://github.com/joseluis-rt)|
+| 07/03/2022 |  0.2   | Introdução |  [Klyssmann Oliveira](https://github.com/klyssmannoliveira)|
 
 
 
 ## 1. Introdução
 
+<p style="text-align: justify">Diferentemente das abordagens orientadas à funcionalidade, o NFR Framework usa requisitos não funcionais, como por exemplo a segurança, eficiência, desempenho e custo para conduzir o processo geral de design. O <i>Framework</i> visa colocar os requisitos não funcionais em primeiro lugar na mente do desenvolvedor (CHUNG, 2012). </p>
+
+<p style="text-align: justify"> O <i>Framework</i> utiliza-se de um conceito que não possui um critério de satisfação nem objetivo claro para representar um requisito não funcional, chamado de <i>softgoal</i>. Assim, é possível visualizar o funcionamento do <i>NFR Framework</i> através de um SIG (<i>Softgoal Interdependency Graph</i>), que é um gráfico de interdependência entre os <i>softgoals</i> (SILVA, 2019)</p>
 
 ## 2. Metodologia
 
@@ -43,3 +47,7 @@ RNF - Requisito Não-Funcional
 
 
 ## 6. Referências
+
+> CHUNG, Lawrence et al. Non-functional requirements in software engineering. Springer Science & Business Media, 2012.
+
+> SILVA, Reinaldo Antônio da. Nfr4es: Um catálogo de requisitos nao-funcionais para sistemas embarcados. 2019. Dissertação de Mestrado. Universidade Federal de Pernambuco.
