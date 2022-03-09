@@ -8,6 +8,7 @@
 | 07/03/2022 |  0.2   | Introdução |  [Klyssmann Oliveira](https://github.com/klyssmannoliveira)|
 | 07/03/2022 |  0.3   | Metodologia |  [José Luís](https://github.com/joseluis-rt)|
 | 07/03/2022 |  0.4   | Criação dos Diagramas |  [José Luís](https://github.com/joseluis-rt) e [Klyssmann Oliveira](https://github.com/klyssmannoliveira)|
+| 08/03/2022 |  0.5   | Revisão do documento |  [Kayro César](https://github.com/kayrocesar) e [Eduardo Maia](https://github.com/eduardomr)|
 
 
 
