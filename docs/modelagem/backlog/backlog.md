@@ -107,7 +107,7 @@
         </tr>
         <tr>
             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);"><a href="../User-Stories/US17/" >US16</a></td>
-            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Eu, como um usuário do sistema, desejo escrever uma descrição para cada registro para que possa descrever mais detalhadamente informações sobre o registro.</td>
+            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Eu, como um usuário do sistema, desejo escrever uma descrição para cada registro, de forma que possa descrever mais detalhadamente informações sobre o registro.</td>
         </tr>
         <tr>
             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);"><a href="../User-Stories/US18/" >US17</a></td>
@@ -118,7 +118,7 @@
         <tr>
             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);" rowspan="4"><a href="#epico-02" >Épico 02 - Backup </a></td>
             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);"><a href="../User-Stories/US19/">US18</a></td>
-            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Eu, como usuário do sistema, desejo configurar o horário e o dia do backup, para que eu tenha sempre os backups atualizados de forma automática.</td>    
+            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Eu, como usuário do sistema, desejo configurar o horário e o dia do backup,para que possa escolher a hora e o dia mais adequado para backup.</td>    
         </tr>
          <tr>
             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);"><a href="../User-Stories/US20/" >US19</a></td>
@@ -235,7 +235,7 @@ Backup <br><br> Eu, como usuário gostaria de poder fazer backup dos meus dados,
 
 | US ID| Requisito | Eu,como usuário gostaria de... |Para que...| Prioridade|
 | :---: | :---: | :---: |:---: |:---: |
-|US18 |RF10 |  poder configurar o horário e o dia do backup | eu tenha sempre os backups atualizados de forma automática| Would |
+|US18 |RF10 |  poder configurar o horário e o dia do backup |para que possa escolher a hora e o dia mais adequado para backup.| Would |
 |US19 |RNF07 | poder armazenar o backup em contas do Google Drive ou Dropbox |eu tenha os meus dados salvos em nuvem  | Could |
 |US20 |RF28 | poder fazer  backup dos meus registros automaticamente em nuvem ou local | eu tenha mais de um tipo de cópia de segurança | Could |
 |US21 |RF07 | restaurar um backup |  eu possa resgatar registros anteriormente salvos | Should |
