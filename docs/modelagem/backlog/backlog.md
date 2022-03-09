@@ -8,6 +8,8 @@
 | 06/03/2022 | 0.1 | Criação do documento de Backlog do produto | [Kayro César](https://github.com/kayrocesar) |
 | 07/03/2022 | 0.2 | Inclusão de novo Épico e User Stories | [Eduardo Maia](https://github.com/eduardomr) |
 | 08/03/2022 | 0.3 | Criação da tabela de backlog | [Eduardo Maia](https://github.com/eduardomr) |
+| 09/03/2022 | 0.4 | Criação de links para requisitos | [Eduardo Maia](https://github.com/eduardomr) |
+| 09/03/2022 | 0.5 | Revisão | [José Luís](https://github.com/joseluis-rt) & [Klyssmann de Oliveira](https://github.com/klyssmannoliveira)|
 
 
 
@@ -210,23 +212,23 @@ Gerenciamento de Registros <br><br> Eu, como usuário gostaria de poder gerencia
 
 | US ID| Requisito | Eu,como usuário gostaria de... |Para que...| Prioridade|
 | :---: | :---: | :---: |:---: |:---: |
-|US01 |RF01 | poder registrar o ponto de entrada | eu saiba quando iniciei o trabalho | Must |
-|US02 |RF02 | poder registrar o ponto de saída | eu saiba quando  eu sai do trabalho | Must |
-|US03 |RF03 | poder registrar o ponto de saída para o almoço | eu saiba quando  eu sai para almoçar | Must |
-|US04 |RF04 | poder guardar informações do horário de trabalho  para cada dia da semana | eu mantenha os registros organizados e separados | Must |
-|US05 |RF05 | poder apagar registros passados | eu possa manter apenas os registros desejados | Should |
-|US06 |RF06 | poder copiar registros passados | eu possa mover o registro para outro dia | Could |
-|US07 |RF08 | poder registrar o ponto de retorno do almoço |eu saiba  quando eu voltei do almoço  | Must |
-|US08 |RF13 | poder registrar o ponto eletrônico através de uma Tag NFC | eu tenha mais praticidade e agilidade no registro  | Would |
-|US09 |RF15 | poder zerar o saldo de horas total | eu possa recomeçar os registros do zero | Should |
-|US10 |RF17 | poder registrar falta |  eu saiba quando eu faltei  | Should |
-|US11 |RF18 | poder adicionar uma foto do registro do ponto |tenha certeza que registrei o ponto  | Should |
-|US12 |RF23 | poder apagar todos os registros | eu possa apagar tudo que registrei | Must |
-|US13 |RF26 | poder registrar folga |  eu saiba quando eu folguei | Should |
-|US14 |RF29 | poder editar registros passados |possa corrigir erros que cometi | Should |
-|US15 |RF30 | poder registrar férias |  eu saiba quando eu entrei de férias | Should |
-|US16|RF31 | poder escrever uma descrição para cada registro |possa descrever mais detalhadamente informações sobre o registro | Would |
-|US17 |RF34 | poder registrar hora extra |  eu saiba quantas horas extra eu trabalhei  | Should |
+|US01 |[RF01](https://requisitos-de-software.github.io/2021.2-PontoFacil/elicitacao/priorizacao/moscow/#lista-de-requisitos-e-suas-prioridades) | poder registrar o ponto de entrada | eu saiba quando iniciei o trabalho | Must |
+|US02 |[RF02](https://requisitos-de-software.github.io/2021.2-PontoFacil/elicitacao/priorizacao/moscow/#lista-de-requisitos-e-suas-prioridades) | poder registrar o ponto de saída | eu saiba quando  eu sai do trabalho | Must |
+|US03 |[RF03](https://requisitos-de-software.github.io/2021.2-PontoFacil/elicitacao/priorizacao/moscow/#lista-de-requisitos-e-suas-prioridades)| poder registrar o ponto de saída para o almoço | eu saiba quando  eu sai para almoçar | Must |
+|US04 |[RF04](https://requisitos-de-software.github.io/2021.2-PontoFacil/elicitacao/priorizacao/moscow/#lista-de-requisitos-e-suas-prioridades) | poder guardar informações do horário de trabalho  para cada dia da semana | eu mantenha os registros organizados e separados | Must |
+|US05 |[RF05](https://requisitos-de-software.github.io/2021.2-PontoFacil/elicitacao/priorizacao/moscow/#lista-de-requisitos-e-suas-prioridades) | poder apagar registros passados | eu possa manter apenas os registros desejados | Should |
+|US06 |[RF06](https://requisitos-de-software.github.io/2021.2-PontoFacil/elicitacao/priorizacao/moscow/#lista-de-requisitos-e-suas-prioridades) | poder copiar registros passados | eu possa mover o registro para outro dia | Could |
+|US07 |[RF08](https://requisitos-de-software.github.io/2021.2-PontoFacil/elicitacao/priorizacao/moscow/#lista-de-requisitos-e-suas-prioridades) | poder registrar o ponto de retorno do almoço |eu saiba  quando eu voltei do almoço  | Must |
+|US08 |[RF13](https://requisitos-de-software.github.io/2021.2-PontoFacil/elicitacao/priorizacao/moscow/#lista-de-requisitos-e-suas-prioridades) | poder registrar o ponto eletrônico através de uma Tag NFC | eu tenha mais praticidade e agilidade no registro  | Would |
+|US09 |[RF15](https://requisitos-de-software.github.io/2021.2-PontoFacil/elicitacao/priorizacao/moscow/#lista-de-requisitos-e-suas-prioridades) | poder zerar o saldo de horas total | eu possa recomeçar os registros do zero | Should |
+|US10 |[RF17](https://requisitos-de-software.github.io/2021.2-PontoFacil/elicitacao/priorizacao/moscow/#lista-de-requisitos-e-suas-prioridades) | poder registrar falta |  eu saiba quando eu faltei  | Should |
+|US11 |[RF18](https://requisitos-de-software.github.io/2021.2-PontoFacil/elicitacao/priorizacao/moscow/#lista-de-requisitos-e-suas-prioridades) | poder adicionar uma foto do registro do ponto |tenha certeza que registrei o ponto  | Should |
+|US12 |[RF23](https://requisitos-de-software.github.io/2021.2-PontoFacil/elicitacao/priorizacao/moscow/#lista-de-requisitos-e-suas-prioridades) | poder apagar todos os registros | eu possa apagar tudo que registrei | Must |
+|US13 |[RF26](https://requisitos-de-software.github.io/2021.2-PontoFacil/elicitacao/priorizacao/moscow/#lista-de-requisitos-e-suas-prioridades) | poder registrar folga |  eu saiba quando eu folguei | Should |
+|US14 |[RF29](https://requisitos-de-software.github.io/2021.2-PontoFacil/elicitacao/priorizacao/moscow/#lista-de-requisitos-e-suas-prioridades) | poder editar registros passados |possa corrigir erros que cometi | Should |
+|US15 |[RF30](https://requisitos-de-software.github.io/2021.2-PontoFacil/elicitacao/priorizacao/moscow/#lista-de-requisitos-e-suas-prioridades) | poder registrar férias |  eu saiba quando eu entrei de férias | Should |
+|US16|[RF31](https://requisitos-de-software.github.io/2021.2-PontoFacil/elicitacao/priorizacao/moscow/#lista-de-requisitos-e-suas-prioridades) | poder escrever uma descrição para cada registro |possa descrever mais detalhadamente informações sobre o registro | Would |
+|US17 |[RF34](https://requisitos-de-software.github.io/2021.2-PontoFacil/elicitacao/priorizacao/moscow/#lista-de-requisitos-e-suas-prioridades) | poder registrar hora extra |  eu saiba quantas horas extra eu trabalhei  | Should |
 
 ### EPICO 02 :
 <div align="justify"> 
@@ -235,10 +237,10 @@ Backup <br><br> Eu, como usuário gostaria de poder fazer backup dos meus dados,
 
 | US ID| Requisito | Eu,como usuário gostaria de... |Para que...| Prioridade|
 | :---: | :---: | :---: |:---: |:---: |
-|US18 |RF10 |  poder configurar o horário e o dia do backup |para que possa escolher a hora e o dia mais adequado para backup.| Would |
-|US19 |RNF07 | poder armazenar o backup em contas do Google Drive ou Dropbox |eu tenha os meus dados salvos em nuvem  | Could |
-|US20 |RF28 | poder fazer  backup dos meus registros automaticamente em nuvem ou local | eu tenha mais de um tipo de cópia de segurança | Could |
-|US21 |RF07 | restaurar um backup |  eu possa resgatar registros anteriormente salvos | Should |
+|US18 |[RF10](https://requisitos-de-software.github.io/2021.2-PontoFacil/elicitacao/priorizacao/moscow/#lista-de-requisitos-e-suas-prioridades) |  poder configurar o horário e o dia do backup |para que possa escolher a hora e o dia mais adequado para backup.| Would |
+|US19 |[RNF07](https://requisitos-de-software.github.io/2021.2-PontoFacil/elicitacao/priorizacao/moscow/#lista-de-requisitos-e-suas-prioridades) | poder armazenar o backup em contas do Google Drive ou Dropbox |eu tenha os meus dados salvos em nuvem  | Could |
+|US20 |[RF28](https://requisitos-de-software.github.io/2021.2-PontoFacil/elicitacao/priorizacao/moscow/#lista-de-requisitos-e-suas-prioridades) | poder fazer  backup dos meus registros automaticamente em nuvem ou local | eu tenha mais de um tipo de cópia de segurança | Could |
+|US21 |[RF07](https://requisitos-de-software.github.io/2021.2-PontoFacil/elicitacao/priorizacao/moscow/#lista-de-requisitos-e-suas-prioridades) | restaurar um backup |  eu possa resgatar registros anteriormente salvos | Should |
 
 
 ### EPICO 03 : 
@@ -248,12 +250,12 @@ Definição de Padrões <br><br> Eu, como usuário gostaria configurar e persona
 
 | US ID| Requisito | Eu,como usuário gostaria de... |Para que...| Prioridade|
 | :---: | :---: | :---: |:---: |:---: |
-|US22 |RF09 | poder configurar os horários de entrada e saída do dia de acordo com registros do mesmo dia | eu possa controlar os horários de acordo com a minha rotina | Could |
-|US23 |RF11 | poder alterar as opções de intervalo, como por exemplo definir um horário de intervalo mínimo | eu possa adaptar os registros de acordo com a minha rotina | Could |
-|US24 |RF14 | poder configurar a tolerância da jornada de trabalho | eu tenha controle total sobre as horas trabalhadas  | Should |
-|US25 |RF19 | poder configurar as notificações que o aplicativo informa (aviso de horário de entrada, saída, intervalo) | para que eu escolha qual é a notificação mais adequada para mim  | Would |
-|US26 |RF22 | poder de configurar a qualidade e resolução da foto armazenada | eu possa ter a qualidade desejada na foto| Would |
-|US27 |RF24 | poder ativar a notificação de alarme | eu seja avisado acerca de alguma atividade que devo realizar | Could |
+|US22 |[RF09](https://requisitos-de-software.github.io/2021.2-PontoFacil/elicitacao/priorizacao/moscow/#lista-de-requisitos-e-suas-prioridades) | poder configurar os horários de entrada e saída do dia de acordo com registros do mesmo dia | eu possa controlar os horários de acordo com a minha rotina | Could |
+|US23 |[RF11](https://requisitos-de-software.github.io/2021.2-PontoFacil/elicitacao/priorizacao/moscow/#lista-de-requisitos-e-suas-prioridades) | poder alterar as opções de intervalo, como por exemplo definir um horário de intervalo mínimo | eu possa adaptar os registros de acordo com a minha rotina | Could |
+|US24 |[RF14](https://requisitos-de-software.github.io/2021.2-PontoFacil/elicitacao/priorizacao/moscow/#lista-de-requisitos-e-suas-prioridades) | poder configurar a tolerância da jornada de trabalho | eu tenha controle total sobre as horas trabalhadas  | Should |
+|US25 |[RF19](https://requisitos-de-software.github.io/2021.2-PontoFacil/elicitacao/priorizacao/moscow/#lista-de-requisitos-e-suas-prioridades) | poder configurar as notificações que o aplicativo informa (aviso de horário de entrada, saída, intervalo) | para que eu escolha qual é a notificação mais adequada para mim  | Would |
+|US26 |[RF22](https://requisitos-de-software.github.io/2021.2-PontoFacil/elicitacao/priorizacao/moscow/#lista-de-requisitos-e-suas-prioridades) | poder de configurar a qualidade e resolução da foto armazenada | eu possa ter a qualidade desejada na foto| Would |
+|US27 |[RF24](https://requisitos-de-software.github.io/2021.2-PontoFacil/elicitacao/priorizacao/moscow/#lista-de-requisitos-e-suas-prioridades) | poder ativar a notificação de alarme | eu seja avisado acerca de alguma atividade que devo realizar | Could |
 
 
 ### EPICO 04 : 
@@ -263,14 +265,14 @@ Visualização de Registros <br><br> Eu, como usuário gostaria visualizar meus 
 
 | US ID| Requisito | Eu,como usuário gostaria de... |Para que...| Prioridade|
 | :---: | :---: | :---: |:---: |:---: |
-|US28 |RF12 | visualizar inconsistências no registro de ponto, como por exemplo a ausência de registro no dia | eu possa corrigir os erros no registro de ponto | Should |
-|US29 |RF16 | visualizar meu banco de horas no período desejado no formato de gráfico de linhas | eu tenha noção do volume de horas trabalhadas | Could |
-|US30|RF25 |ser capaz de filtrar os parâmetros do gráfico de linhas | eu possa inferir informações mais específicas no gráfico | Would |
-|US31|RF20 | Eu, como usuário do sistema, desejo escolher diferentes opções de idiomas | eu possa entender as informações apresentadas.  | Would |
-|US32 |RF21 |visualizar meus registros no dia, na semana e no mês | eu acompanhe meu volume de horas trabalhadas no período que desejo| Must |
-|US33 |RF27 | consultar meu saldo de horas do dia | eu acompanhe meu volume de horas trabalhadas | Should |
-|US34 |RF32 |gerar um extrato dos meus registros de ponto em qualquer período determinado | eu possa apresentar ao meu empregador | Should |
-|US35 |RF33 |consultar o saldo de horas total (do mês) | eu acompanhe meu volume de horas mensal trabalhadas  | Must |
+|US28 |[RF12](https://requisitos-de-software.github.io/2021.2-PontoFacil/elicitacao/priorizacao/moscow/#lista-de-requisitos-e-suas-prioridades) | visualizar inconsistências no registro de ponto, como por exemplo a ausência de registro no dia | eu possa corrigir os erros no registro de ponto | Should |
+|US29 |[RF16](https://requisitos-de-software.github.io/2021.2-PontoFacil/elicitacao/priorizacao/moscow/#lista-de-requisitos-e-suas-prioridades) | visualizar meu banco de horas no período desejado no formato de gráfico de linhas | eu tenha noção do volume de horas trabalhadas | Could |
+|US30|[RF25](https://requisitos-de-software.github.io/2021.2-PontoFacil/elicitacao/priorizacao/moscow/#lista-de-requisitos-e-suas-prioridades) |ser capaz de filtrar os parâmetros do gráfico de linhas | eu possa inferir informações mais específicas no gráfico | Would |
+|US31|[RF20](https://requisitos-de-software.github.io/2021.2-PontoFacil/elicitacao/priorizacao/moscow/#lista-de-requisitos-e-suas-prioridades) | Eu, como usuário do sistema, desejo escolher diferentes opções de idiomas | eu possa entender as informações apresentadas.  | Would |
+|US32 |[RF21](https://requisitos-de-software.github.io/2021.2-PontoFacil/elicitacao/priorizacao/moscow/#lista-de-requisitos-e-suas-prioridades) |visualizar meus registros no dia, na semana e no mês | eu acompanhe meu volume de horas trabalhadas no período que desejo| Must |
+|US33 |[RF27](https://requisitos-de-software.github.io/2021.2-PontoFacil/elicitacao/priorizacao/moscow/#lista-de-requisitos-e-suas-prioridades) | consultar meu saldo de horas do dia | eu acompanhe meu volume de horas trabalhadas | Should |
+|US34 |[RF32](https://requisitos-de-software.github.io/2021.2-PontoFacil/elicitacao/priorizacao/moscow/#lista-de-requisitos-e-suas-prioridades) |gerar um extrato dos meus registros de ponto em qualquer período determinado | eu possa apresentar ao meu empregador | Should |
+|US35 |[RF33](https://requisitos-de-software.github.io/2021.2-PontoFacil/elicitacao/priorizacao/moscow/#lista-de-requisitos-e-suas-prioridades) |consultar o saldo de horas total (do mês) | eu acompanhe meu volume de horas mensal trabalhadas  | Must |
 
 
 <br>
