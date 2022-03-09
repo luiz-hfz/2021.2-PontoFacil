@@ -16,6 +16,7 @@ nav:
       - Ferramentas: planejamento/ferramentas.md
   - Pré-rastreabilidade:
       - RichPictures: pre_rastreabilidade/rich_pictures.md
+      - 5w2h: pre_rastreabilidade/5w2h.md
   - Elicitação:
       - Personas: elicitacao/personas.md
       - Técnicas:
