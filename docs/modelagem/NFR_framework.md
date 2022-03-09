@@ -49,11 +49,11 @@
 ### 4.1 Geral
 
 <center>
+<figcaption>Figura 1: Geral - NFR Framework</figcaption>
 
 <p align = "center"><img src="https://raw.githubusercontent.com/Requisitos-de-Software/2021.2-PontoFacil/master/docs/assets/imagens/geral.png"></p><br>
   
-<figcaption>Diagrama 1: Geral - NFR Framework</figcaption>
-
+<figcaption>Fonte: Elaboração dos autores</figcaption>
 </center>
 
 <br>
@@ -62,10 +62,11 @@
 
 <center>
 
+<figcaption>Figura 2: Usabilidade - NFR Framework</figcaption>
 <p align = "center"><img src="https://raw.githubusercontent.com/Requisitos-de-Software/2021.2-PontoFacil/master/docs/assets/imagens/usabilidade_NFR.png"></p><br>
   
-<figcaption>Diagrama 2: Usabilidade - NFR Framework</figcaption>
 
+<figcaption>Fonte: Elaboração dos autores</figcaption>
 </center>
 
 <br>
@@ -73,11 +74,11 @@
 ### 4.3 Usabilidade Propagação
 
 <center>
-
+<figcaption>Figura 3: Usabilidade Propagação - NFR Framework</figcaption>
 <p align = "center"><img src="https://raw.githubusercontent.com/Requisitos-de-Software/2021.2-PontoFacil/master/docs/assets/imagens/usabilidade_propagacao_NFR.png"></p><br>
   
-<figcaption>Diagrama 3: Usabilidade Propagação - NFR Framework</figcaption>
 
+<figcaption>Fonte: Elaboração dos autores</figcaption>
 </center>
 
 <br>
@@ -85,10 +86,11 @@
 ### 4.4 Segurança
 
 <center>
-
+<figcaption>Figura 4: Segurança - NFR Framework</figcaption>
 <p align = "center"><img src="https://raw.githubusercontent.com/Requisitos-de-Software/2021.2-PontoFacil/master/docs/assets/imagens/seguranca_NFR.png"></p><br>
   
-<figcaption>Diagrama 4: Segurança - NFR Framework</figcaption>
+
+<figcaption>Fonte: Elaboração dos autores</figcaption>
 
 </center>
 
@@ -98,9 +100,11 @@
 
 <center>
 
+<figcaption>Figura 5: Segurança Propagação - NFR Framework</figcaption>
 <p align = "center"><img src="https://raw.githubusercontent.com/Requisitos-de-Software/2021.2-PontoFacil/master/docs/assets/imagens/seguranca_propagacao_NFR.png"></p><br>
   
-<figcaption>Diagrama 5: Segurança Propagação - NFR Framework</figcaption>
+
+<figcaption>Fonte: Elaboração dos autores</figcaption>
 
 </center>
 
@@ -109,10 +113,11 @@
 ### 4.6 Suportabilidade
 
 <center>
-
-<p align = "center"><img src="https://raw.githubusercontent.com/Requisitos-de-Software/2021.2-PontoFacil/master/docs/assets/imagens/suportabilidade_NFR.png"></p><br>
   
-<figcaption>Diagrama 6: Suportabilidade - NFR Framework</figcaption>
+<figcaption>Figura 6: Suportabilidade - NFR Framework</figcaption>
+<p align = "center"><img src="https://raw.githubusercontent.com/Requisitos-de-Software/2021.2-PontoFacil/master/docs/assets/imagens/suportabilidade_NFR.png"></p><br>
+
+<figcaption>Fonte: Elaboração dos autores</figcaption>
 
 </center>
 
@@ -122,9 +127,10 @@
 
 <center>
 
+<figcaption>Figura 7: Suportabilidade Propagação - NFR Framework</figcaption>
 <p align = "center"><img src="https://raw.githubusercontent.com/Requisitos-de-Software/2021.2-PontoFacil/master/docs/assets/imagens/propagacao_suportabilidade.png"></p><br>
   
-<figcaption>Diagrama 7: Suportabilidade Propagação - NFR Framework</figcaption>
+<figcaption>Fonte: Elaboração dos autores</figcaption>
 
 </center>
 
@@ -134,10 +140,12 @@
 ## 5. Legenda
 
 <center>
-  
+
+<figcaption>Figura 8: Legenda</figcaption>
 <p align = "center"><img src="https://raw.githubusercontent.com/Requisitos-de-Software/2021.2-PontoFacil/master/docs/assets/imagens/legenda.png"></p><br>
 
-<figcaption>Legenda</figcaption>
+
+<figcaption>Fonte: Elaboração dos autores</figcaption>
 
 </center>
 
