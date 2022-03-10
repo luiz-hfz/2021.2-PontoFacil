@@ -18,7 +18,7 @@
 
 <p style="text-align: justify">Diferentemente das abordagens orientadas à funcionalidade, o NFR Framework usa requisitos não funcionais, como por exemplo a segurança, eficiência, desempenho e custo para conduzir o processo geral de design. O <i>Framework</i> visa colocar os requisitos não funcionais em primeiro lugar na mente do desenvolvedor (CHUNG, 2012). </p>
 
-<p style="text-align: justify"> O <i>Framework</i> utiliza-se de um conceito que não possui um critério de satisfação nem objetivo claro para representar um requisito não funcional, chamado de <i>softgoal</i>. Assim, é possível visualizar o funcionamento do <i>NFR Framework</i> através de um SIG (<i>Softgoal Interdependency Graph</i>), que é um gráfico de interdependência entre os <i>softgoals</i> (SILVA, 2019)</p>
+<p style="text-align: justify"> O <i>Framework</i> utiliza-se de um conceito que não possui um critério de satisfação preciso ou um objetivo claro para representar um requisito não funcional, chamado de <i>softgoal</i>. Assim, é possível visualizar o funcionamento do <i>NFR Framework</i> através de um SIG (<i>Softgoal Interdependency Graph</i>), que é um gráfico de interdependência entre os <i>softgoals</i> (SILVA, 2019)</p>
 
 ## 2. Metodologia
 
